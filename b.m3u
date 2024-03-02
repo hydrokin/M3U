@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0 type="video" channelId="-1" group="Asteriks ve Oburiks: Orta Krallık" size="Medium", 1
 https://p.photour.org/v/4cljxowhygmt/1080.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Kutsal Damacana 4" size="Medium", 1
+https://p.photour.org/v/m1nn8tjo9ixj/1080.m3u8
