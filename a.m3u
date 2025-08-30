@@ -118,7 +118,29 @@ https://storage.diziyou16.com/episodes/25218_tr/1080p.m3u8
 #EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 19
 https://storage.diziyou16.com/episodes/25219_tr/1080p.m3u8
 #EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 20
+
 https://storage.diziyou16.com/episodes/25220_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 21
+https://storage.diziyou16.com/episodes/25221_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 22
+https://storage.diziyou16.com/episodes/25222_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 23
+https://storage.diziyou16.com/episodes/25223_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 24
+https://storage.diziyou16.com/episodes/25224_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 25
+https://storage.diziyou16.com/episodes/25225_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 26
+https://storage.diziyou16.com/episodes/25226_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 27
+https://storage.diziyou16.com/episodes/25227_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 28
+https://storage.diziyou16.com/episodes/25228_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 29
+https://storage.diziyou16.com/episodes/25229_tr/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Rick and Morty" size="Medium", 30
+https://storage.diziyou16.com/episodes/25230_tr/1080p.m3u8
+
 #EXTINF:0 type="video" channelId="-1" group="Disenchantment" size="Medium", 1
 https://storage.diziyou16.com/episodes/11341_tr/1080p.m3u8
 #EXTINF:0 type="video" channelId="-1" group="Disenchantment" size="Medium", 2
@@ -813,3 +835,4 @@ https://storage.diziyou16.com/episodes/13972_tr/1080p.m3u8
 https://storage.diziyou16.com/episodes/13973_tr/1080p.m3u8
 #EXTINF:0 type="video" channelId="-1" group="The Witcher" size="Medium", 24
 https://storage.diziyou16.com/episodes/13974_tr/1080p.m3u8
+
