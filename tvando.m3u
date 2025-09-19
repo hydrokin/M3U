@@ -1,571 +1,1178 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1" group="POWERTURK HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2298/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NTV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2299/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DMAX HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2300/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="STAR TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2301/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NTV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2302/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Minika Çocuk" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2303/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kanal D HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2304/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="CNN Turk HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2305/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Teve 2 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2306/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Show TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2307/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Haberturk HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2308/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NOW HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2309/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Beyaz TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2310/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Ulke TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2311/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Bloomberg HT" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2317/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="24 TV HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2319/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 4 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2321/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="CARTOON NETWORK TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2325/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT 1" size="Medium", 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
+#EXTINF:0 type="video" channelId="-1" group="ATV" size="Medium", 1
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="STAR TV" size="Medium", 1
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SHOW TV" size="Medium", 1
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0 type="video" channelId="-1" group="KANAL D" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2326/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 100 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2328/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="360 TV HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/2320/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Box Office 3 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6743/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Box Office 1 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6744/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Box Office 2 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6745/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="ARTI 1 TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6748/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Uzay Haber TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6749/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 5 TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6751/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 41 TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6752/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 4 TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6753/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Mavi Karadeniz TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6758/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Line TV Bursa TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6759/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Koy TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6761/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kibris Genc TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6762/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kardelen TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6763/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kanal Avrupa TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6766/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="ER TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6768/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Deha TV Denizli TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6771/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Ciftci TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6772/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BRT 3 TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6774/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BRT 2 TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6775/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BRT 1 TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6776/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="AS TV Bursa TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6777/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Anadolu Dernek TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6778/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Anadolu TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6779/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Akit TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6780/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports 1 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6781/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Vatan TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6784/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Ucankus TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6785/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV Kayseri TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6786/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Yaban HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6787/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FM TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6789/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Lalegul TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6790/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 2000 TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6791/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Meltem TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6792/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Dost TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6793/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Diyanet TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6794/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TGRT EU TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6796/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Show Turk TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6797/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Turk TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6798/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Avaz TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6799/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DiziSmart Premium TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6802/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Fox Crime TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6803/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Gurme HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6804/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Sinema TV Aile TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6806/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Movie Smart Turk TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6807/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Movie Smart Classic HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6811/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Movie Smart Action TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6812/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Series Vice TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6813/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Series Sci-fi TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6814/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Tivibu Spor 2 FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6816/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports 1 (Yedek) HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6817/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports 2 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6818/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports 2 (Yedek) HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6819/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports 3 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6820/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports 3 (Yedek) HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6821/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports 4 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6822/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports 4 (Yedek) HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6823/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports Max 1 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6824/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="S Sport HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6825/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Sports TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6828/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Eurosport 1 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6829/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Eurosport 2 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6830/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="A Spor TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6832/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Galatasaray TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6834/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TJK TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6837/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NBA TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6838/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Idman TV HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6840/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Cocuk HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6841/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Disney Jr. HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6842/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Disney Jr. TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6843/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Baby TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6845/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Cartoon Network TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6846/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Nick Jr TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6847/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Nickelodeon TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6848/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Minika Cocuk TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6849/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Cartoonito TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6850/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Minika Go TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6851/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Belgesel TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6852/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="24 Kitchen HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6853/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BBC Earth HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6854/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BBC Earth TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6855/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="History HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6856/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Da Vinci HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6857/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Animal Planet HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6858/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Animal Planet TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6859/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TGRT Belgesel TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6860/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Discovery Channel TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6861/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Discovery Science TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6863/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Love Nature HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6864/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="National Geographic HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6866/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="National Geographic FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6867/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Yaban TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6868/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Muzik HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6869/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Muzik TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6870/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Tatlises" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6872/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Dream Turk FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6873/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NR1 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6874/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Movies Action HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6877/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Movies Family HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6878/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Movies Premiere 2 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6879/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Movies Premiere HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6880/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Series Comedy HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6881/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Series Drama HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6882/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT 1 FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6883/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT 2 FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6884/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="ATV Avrupa TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6888/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Show TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6889/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Show Max TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6890/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kanal D TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6891/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Euro D TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6892/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Star TV FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6893/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Eurostar HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6894/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 8.5 TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6895/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 8 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6896/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 8 Int TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6897/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 8.5 FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6898/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 8.5 HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6899/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kanal 7 FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6903/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kanal 7 TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6904/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kanal 7 Avrupa TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6905/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Beyaz TV FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6906/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Beyaz TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6907/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="A2 TV FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6908/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="A Para FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6909/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Teve2 FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6910/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TLC HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6914/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TLC TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6915/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Eba TV Ilkokul HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6916/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Eba TV Ilkokul TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6917/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Eba TV Lise HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6918/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Eba TV Lise TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6919/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Eba TV Ortaokul HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6920/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT Haber HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6921/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="A Haber FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6923/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NTV FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6924/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NTV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6925/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="CNN Turk FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6926/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Haber Turk FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6927/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Global Haber TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6928/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV100 TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6929/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Tele 1 TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6930/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Ulusal Kanal TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6931/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TGRT Haber FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6932/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TGRT Haber HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6933/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Ulke TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6934/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV Net TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6936/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="A News FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6937/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN Sports Haber FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6939/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kanal V TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/15252/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kocaeli TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/15253/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KRT TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/15255/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Rumeli TV TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/15256/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Kanal Cay TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/15257/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="beIN IZ TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/19078/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="A NEWS HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31139/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="AKİT TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31143/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="AL JAZEERA ARABIC HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31144/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="AL JAZEERA ENGLISH" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31145/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BABYTV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31147/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BENGÜTÜRK" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31149/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BEYAZ TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31150/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BİZİM EV TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31151/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BLOOMBERG HT HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31152/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BluTV Play 1" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31153/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BluTV Play 2" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31154/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Cartoonito HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31155/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BRT 1 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31156/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="BRT 2 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31157/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Cartoon Network HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31158/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="CNN TÜRK HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31160/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DEUTSCHE WELLE ENGLISH" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31163/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DİYANET TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31166/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DMAX HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31167/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DREAM TÜRK" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31168/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DUCK TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31169/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="EKOTÜRK HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31171/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="English Club TV HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31172/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Epic Drama HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31173/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="EURONEWS" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31174/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Eurosport 1 FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31175/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="Eurosport 2 FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31176/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FB TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31177/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FLASH TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31178/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FM TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31179/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NOW FHD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31180/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FRANCE 24 ARABIC" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31181/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FRANCE 24 ENGLISH" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31182/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FTV UHD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31183/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FX HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31184/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="HABER GLOBAL HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31185/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="HABERTÜRK HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31186/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="HALK TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31187/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KADIRGA TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31188/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KANAL 23" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31189/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KANAL 26" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31190/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KANAL 33" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31191/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KANAL 7 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31192/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KANAL T" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31194/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KANAL V" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31195/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KIBRIS ADA TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31196/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KIBRIS GENC TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31197/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KIBRIS TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31198/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KONTV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31199/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KRT TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31200/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="LOVE NATURE 4K" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31201/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="LOVE NATURE HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31202/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="MELTEM TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31203/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="MİNİKA GO" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31204/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="MOONBUG KIDS TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31206/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NATIONAL GEOGRAPHIC HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31207/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NBA TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31209/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NICKTOONS" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31210/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NUMBER1 TURK HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31212/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="NUMBER1 TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31213/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="ON6" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31214/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="POWER TURK HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31215/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="POWER TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31216/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SEMERKAND HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31219/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA 1002 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31221/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA AİLE 2 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31222/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA AİLE HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31223/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA AKSİYON 2 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31224/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA KOMEDİ HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31225/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA TV 1001 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31226/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA TV 2 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31227/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA TV AKSİYON HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31228/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31229/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA YERLİ 2 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31230/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SİNEMA YERLİ HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31231/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SKY NEWS ARABIA" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31232/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SPORTS TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31233/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="SÖZCÜ TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31235/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TARIH TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31236/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TARIM TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31237/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TELE1" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31238/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TEVE2 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31239/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TGRT HABER HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31240/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TJK TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31241/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TMB TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31243/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT 2 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31244/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT 3 Spor HD TR" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31245/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT ARABI" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31247/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT AVAZ" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31248/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT BELGESEL HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31249/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT DIYANET COCUK" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31250/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT EBATV ORTAOKUL" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31253/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT HABER HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31254/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT KURDİ" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31255/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT TÜRK" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31259/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT World HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31260/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT ÇOCUK HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31261/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TRT1 HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31262/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 2020" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31263/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV 4" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31264/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV PLUS INFO" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31265/index.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:0 type="video" channelId="-1" group="KANAL 7" size="Medium", 1
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NOW TV" size="Medium", 1
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="360 TV" size="Medium", 1
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV4" size="Medium", 1
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TEVE 2" size="Medium", 1
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 8" size="Medium", 1
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 8.5" size="Medium", 1
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:0 type="video" channelId="-1" group="BEYAZ TV" size="Medium", 1
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT BELGESEL" size="Medium", 1
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TLC" size="Medium", 1
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DMAX TV" size="Medium", 1
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NTV" size="Medium", 1
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT HABER" size="Medium", 1
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HABERGLOBAL" size="Medium", 1
+http://trn03.tulix.tv/gt-haberglobal/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HABERTÜRK" size="Medium", 1
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TGRT HABER" size="Medium", 1
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A HABER" size="Medium", 1
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+#EXTINF:0 type="video" channelId="-1" group="AKiT TV" size="Medium", 1
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ÜLKE TV" size="Medium", 1
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:0 type="video" channelId="-1" group="TV100" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31266/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TV5 MONDE" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31267/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="TVNET HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31270/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="ULUSAL KANAL" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31271/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="VAV TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31273/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="VIASAT EXPLORE" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31274/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="VIASAT HISTORY HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31275/index.m3u8
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HALK TV" size="Medium", 1
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TELE1" size="Medium", 1
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TVNET" size="Medium", 1
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="24 TV" size="Medium", 1
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A PARA" size="Medium", 1
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BENGÜ TÜRK" size="Medium", 1
+https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EKOL TV" size="Medium", 1
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV5" size="Medium", 1
+https://tv5-live.ercdn.net/tv5/tv5.m3u8
+#EXTINF:0 type="video" channelId="-1" group="FLASH HABER" size="Medium", 1
+https://internettv.guventechnology.com:19360/flashhabertv/1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TH TURK HABER TV" size="Medium", 1
+https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HABER 61" size="Medium", 1
+http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A2" size="Medium", 1
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EURO D" size="Medium", 1
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SHOW TÜRK" size="Medium", 1
+https://canlitvulusal.xyz/live/showturk/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SHOW MAX" size="Medium", 1
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 7 AVRUPA" size="Medium", 1
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT 2" size="Medium", 1
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT TÜRK" size="Medium", 1
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT AVAZ" size="Medium", 1
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT MÜZiK" size="Medium", 1
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KRAL POP TV FHD" size="Medium", 1
+http://dygvideo.dygdigital.com/live/hls/kralpop
+#EXTINF:0 type="video" channelId="-1" group="KRAL POP TV" size="Medium", 1
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TATLISES TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DREAM TURK" size="Medium", 1
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NR 1 TURK" size="Medium", 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER LOVE" size="Medium", 1
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NR 1 DAMAR" size="Medium", 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
+#EXTINF:0 type="video" channelId="-1" group="NR 1 TV" size="Medium", 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TURK" size="Medium", 1
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TURK SLOW" size="Medium", 1
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TV AKUSTiK" size="Medium", 1
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TURK TAPTAZE" size="Medium", 1
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER DANCE" size="Medium", 1
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TV" size="Medium", 1
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SLOW KARADENIZ TV" size="Medium", 1
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ASPOR" size="Medium", 1
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HT SPOR" size="Medium", 1
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT SPOR" size="Medium", 1
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT SPOR YILDIZ" size="Medium", 1
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="GS TV" size="Medium", 1
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="FB TV" size="Medium", 1
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SPORTS TV" size="Medium", 1
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MELTEM TV" size="Medium", 1
+https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="GZT TV" size="Medium", 1
+https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TYT TÜRK" size="Medium", 1
+https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TGRT EU" size="Medium", 1
+https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TGRT BELGESEL" size="Medium", 1
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ONS TV" size="Medium", 1
+https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CİNE 1" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CİNE 5" size="Medium", 1
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CİNE 6" size="Medium", 1
+https://canli.cine6tv.com.tr:3614/stream/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CİNEMAX 6" size="Medium", 1
+https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TiViTURK" size="Medium", 1
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DENiZ POSTASI TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="İSVİÇRE TV" size="Medium", 1
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DİZİ TV" size="Medium", 1
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SUPERTURK TV" size="Medium", 1
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SUPERTURK MAX" size="Medium", 1
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ViYANA TV" size="Medium", 1
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DOST TV" size="Medium", 1
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DiYANET TV" size="Medium", 1
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="GONCA TV" size="Medium", 1
+https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="LALEGUL TV" size="Medium", 1
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SEMERKAND TV" size="Medium", 1
+http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SEMERKAND TV WAY" size="Medium", 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="REHBER TV" size="Medium", 1
+https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KUDUS TV" size="Medium", 1
+https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL ON 4 TV" size="Medium", 1
+https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="AL ZAHRA TURK TV" size="Medium", 1
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HADİ TV" size="Medium", 1
+https://live.ishiacloud.com/hls/37166b77-128d-425c-91bf-8195071c217d_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="İLK TV" size="Medium", 1
+https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MC TV" size="Medium", 1
+https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MUKABELE TV" size="Medium", 1
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Al QURAN KAREEM - KABE CANLI" size="Medium", 1
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT COCUK" size="Medium", 1
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT DİYANET ÇOCUK" size="Medium", 1
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BRT 2 KIBRIS" size="Medium", 1
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MİNİKA GO" size="Medium", 1
+https://trkvz-live.daioncdn.net/minikago/minikago.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MİNİKA ÇOÇUK" size="Medium", 1
+https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CARTOONNETWORK BLUTV" size="Medium", 1
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TÜRKMENELİ TV" size="Medium", 1
+https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/index.fmp4.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BRT 1 KIBRIS" size="Medium", 1
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KIBRIS ADA" size="Medium", 1
+https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/chunklist_w2073141101.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KTV  KIBRIS" size="Medium", 1
+https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KUZEY KIBRIS" size="Medium", 1
+https://kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KIBRIS GENÇ TV" size="Medium", 1
+https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/chunklist_w248136165.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL T" size="Medium", 1
+https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SİM TV" size="Medium", 1
+https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/chunklis.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 2020" size="Medium", 1
+https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="AGRO TV" size="Medium", 1
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="AKSU TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ANADOLUNET TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ANGARA TV" size="Medium", 1
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ARAS TV" size="Medium", 1
+https://2.rtmp.org/tv217/yayin.stream/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BİR TV" size="Medium", 1
+https://edge1.socialsmart.tv/birtv/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BODRUM KENT TV" size="Medium", 1
+https://edge1.socialsmart.tv/bodrumkenttv/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BRTV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BURSA LiNE TV" size="Medium", 1
+https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BURSA ON6 TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CAY TV" size="Medium", 1
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:0 type="video" channelId="-1" group="ÇİFTÇİ TV" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31276/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="ÜLKE TV HD" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31277/index.m3u8
-#EXTINF:0 type="video" channelId="-1" group="ŞÖMİNE PLUS" size="Medium", 1
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/31278/index.m3u8
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DEHA TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_dehatv/dehatv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DERiN TV" size="Medium", 1
+https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DİM TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EDİRNE TV" size="Medium", 1
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EDESSA TV" size="Medium", 1
+https://tv170.radyotelekom.com.tr:21764/edessatv/edessatv/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EDiRNE TV" size="Medium", 1
+https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ERCİYES TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ERCiS TV" size="Medium", 1
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ER TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ES TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ETV KAYSERi" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ETV MANiSA" size="Medium", 1
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="FRT TV" size="Medium", 1
+https://edge1.socialsmart.tv/frttv/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="FORTUNA TV" size="Medium", 1
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="GRT GAZİANTEP TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="GUNEYDOGU TV" size="Medium", 1
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="GURBET 24 TV" size="Medium", 1
+http://cdn-gurbet24.yayin.com.tr/gurbet24/gurbet24/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HUNAT TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="iCEL TV" size="Medium", 1
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="İZMİR TIME 35 TV" size="Medium", 1
+https://cdn-time35tv.yayin.com.tr/time35tv/time35tv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="İKRA TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KARDELEN TV" size="Medium", 1
+https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 3" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 12" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 13" size="Medium", 1
+https://medya.kesintisizyayin.com:3423/stream/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 15" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 19" size="Medium", 1
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 23" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 26" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 28" size="Medium", 1
+https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 32" size="Medium", 1
+https://edge1.socialsmart.tv/kanal32/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 33" size="Medium", 1
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 34" size="Medium", 1
+https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 53" size="Medium", 1
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 56" size="Medium", 1
+https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w559405215.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 58" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 68" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL ADA" size="Medium", 1
+http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8?app=supersatforum
+#EXTINF:0 type="video" channelId="-1" group="KANAL AVRUPA" size="Medium", 1
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL B" size="Medium", 1
+https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL S" size="Medium", 1
+https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL V" size="Medium", 1
+https://waw1.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL Z" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL PLUS" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL URFA" size="Medium", 1
+https://edge1.socialsmart.tv/kanalurfa/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL FIRAT" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KAY TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KOCAELİ TV" size="Medium", 1
+https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KTV KONYA" size="Medium", 1
+https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="LİFE TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MAVi KARADENiZ TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MERCAN TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="METROPOL TV" size="Medium", 1
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum
+#EXTINF:0 type="video" channelId="-1" group="MUGLA TÜRK TV" size="Medium", 1
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NORA TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_noratv/noratv/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="OLAY TURK" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SUN TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TARIM TV" size="Medium", 1
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TEMPO TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TiVi 6" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TOKAT WEB TV" size="Medium", 1
+https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TON TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRAKYA TÜRK TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TÜRK KLİNİKLERİ TV" size="Medium", 1
+http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 25" size="Medium", 1
+https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 41" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 48" size="Medium", 1
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 52" size="Medium", 1
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 264" size="Medium", 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8?md5=qb_9l3erQIDqZMjbKfALzA&expires=1651666386
+#EXTINF:0 type="video" channelId="-1" group="TV A" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_tva/tva/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="UR FANATiK TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TOKAT TV" size="Medium", 1
+https://cdn-tokattv.yayin.com.tr/tokattv/tokattv/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="URFA HABER TV" size="Medium", 1
+https://ruhatv.ozelip.com:3483/stream/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="VAN GOLU TV" size="Medium", 1
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="VRT" size="Medium", 1
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="VTV TÜRK" size="Medium", 1
+https://ip252.ozelip.com:22524/marstv/marstv/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="VUSLAT TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="WOMAN TV" size="Medium", 1
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="WORLDTÜRK" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="RIZE TURK HD" size="Medium", 1
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="PAZARCIK TV" size="Medium", 1
+https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ORDU BEL TV" size="Medium", 1
+https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="YOZGAT BLD TV" size="Medium", 1
+https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/yozgatbeltv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="FiNEST TV" size="Medium", 1
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DAMAR TV" size="Medium", 1
+https://tvsms.club/tv.php?kanal=damar&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ARABESK TV" size="Medium", 1
+https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SILA TV" size="Medium", 1
+https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ZEYNO TV" size="Medium", 1
+https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DOST TV" size="Medium", 1
+https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EZO TV" size="Medium", 1
+https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TOP POP TV" size="Medium", 1
+https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A VİVA TV" size="Medium", 1
+https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ARMA TV" size="Medium", 1
+https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="GENC SMS TV" size="Medium", 1
+https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT WORLD" size="Medium", 1
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT KURDi" size="Medium", 1
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT ARABi" size="Medium", 1
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SAGLIK CHANEL" size="Medium", 1
+https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="5 OCAK TV" size="Medium", 1
+https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1939638168.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ALANYA ATV" size="Medium", 1
+https://helga.iptv2022.com/sh/AlanyaTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TAŞ TV" size="Medium", 1
+http://palatv34.ozelip.com:22372/tastv/tastv/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HÜR TV" size="Medium", 1
+https://live.euromediacenter.com/hurtv/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="AYZ" size="Medium", 1
+http://164.132.23.92:22372/ayztv/ayztv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BELEMTÜRK" size="Medium", 1
+https://edge.socialsmart.tv/belemturktv/bant1/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BRÜKSEL TÜRK" size="Medium", 1
+https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT1" size="Medium", 1
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL D" size="Medium", 1
+http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ATV" size="Medium", 1
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:0 type="video" channelId="-1" group="STAR TV" size="Medium", 1
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SHOW TV" size="Medium", 1
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NOW" size="Medium", 1
+http://66.160.192.241/foxturk/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BEYAZ TV" size="Medium", 1
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 8" size="Medium", 1
+http://89.187.191.41/TV8-HD-TR/video.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 7" size="Medium", 1
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TEVE 2" size="Medium", 1
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:0 type="video" channelId="-1" group="360 TV" size="Medium", 1
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NTV" size="Medium", 1
+https://canlitvulusal.xyz/live/ntv/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HABER TURK" size="Medium", 1
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CNN TURK" size="Medium", 1
+https://trn03.tulix.tv/gt-cnnturk-tv/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT HABER" size="Medium", 1
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="24 TV" size="Medium", 1
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV NET" size="Medium", 1
+https://trn03.tulix.tv/gt-tvnet/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TGRT HABER" size="Medium", 1
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT 4K" size="Medium", 1
+http://176.65.146.123:6001/play/a027/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TABII TV" size="Medium", 1
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
+#EXTINF:0 type="video" channelId="-1" group="SINEMA 1001" size="Medium", 1
+https://tv1.arectv30.sbs/live/sinema1001.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SINEMA AKSIYON 2" size="Medium", 1
+https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SINEMA KOMEDI" size="Medium", 1
+https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BEIN BOX OFFICE 1" size="Medium", 1
+https://tv.prectv5.sbs/live/bspremier1.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BEIN BOX OFFICE 2" size="Medium", 1
+https://tv.prectv5.sbs/live/bsstars.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BEIN BOX OFFICE 3" size="Medium", 1
+https://tv.prectv5.sbs/live/box3.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT COCUK" size="Medium", 1
+https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A2" size="Medium", 1
+http://89.187.191.41/A2-HD-TR/video.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT BELGESEL" size="Medium", 1
+https://canlitvulusal.xyz/live/trtbelgesel/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DMAX" size="Medium", 1
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TLC" size="Medium", 1
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NAT GEO WILD" size="Medium", 1
+http://vipbpars.xyz:8080/play/live.php?mac=00:1A:79:4D:03:71&stream=481294&extension=ts&play_token=iIClKojl2I
+#EXTINF:0 type="video" channelId="-1" group="TRT SPOR" size="Medium", 1
+http://176.65.146.123:6001/play/a01k/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 8.5" size="Medium", 1
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A SPOR" size="Medium", 1
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT SPOR YILDIZ" size="Medium", 1
+http://176.65.146.123:6001/play/a02g/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SSPORT" size="Medium", 1
+https://217.30.11.74/e/3030.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SSPORT 2" size="Medium", 1
+https://217.30.11.74/e/3031.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BEINSPORTS 1" size="Medium", 1
+http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
+#EXTINF:0 type="video" channelId="-1" group="BEINSPORTS 1" size="Medium", 1
+http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BEINSPORTS 1 (Mac zamanı)" size="Medium", 1
+http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Tv8" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv8-canliizle
+#EXTINF:0 type="video" channelId="-1" group="Fox Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/foxtvcanlihd-izle
+#EXTINF:0 type="video" channelId="-1" group="Kanal 7" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-7-canli-yayin-izle
+#EXTINF:0 type="video" channelId="-1" group="Now TV" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/nowtvcanli
+#EXTINF:0 type="video" channelId="-1" group="ATV" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/atvcanli-yayin
+#EXTINF:0 type="video" channelId="-1" group="TRT 1" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trt1-canli-hd-izle
+#EXTINF:0 type="video" channelId="-1" group="Kanal D" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanald-canli-izle
+#EXTINF:0 type="video" channelId="-1" group="Star Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/startvcanli-yayin
+#EXTINF:0 type="video" channelId="-1" group="Show Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/showtv-canli
+#EXTINF:0 type="video" channelId="-1" group="Beyaz Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/beyaz-tv
+#EXTINF:0 type="video" channelId="-1" group="Flash Haber" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/flash-haber-canli
+#EXTINF:0 type="video" channelId="-1" group="TRT Spor" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtsporcanli-hd
+#EXTINF:0 type="video" channelId="-1" group="A Spor" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/aspor-canli-hd
+#EXTINF:0 type="video" channelId="-1" group="Bein Sports Haber" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/beinsports-haber
+#EXTINF:0 type="video" channelId="-1" group="TJK Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tjktvcanli-yayin
+#EXTINF:0 type="video" channelId="-1" group="TRT Spor Yıldız" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtsporyildiz-canlii
+#EXTINF:0 type="video" channelId="-1" group="Sözcü Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sozcu-tv-canli
+#EXTINF:0 type="video" channelId="-1" group="TRT Haber" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trthaber-canli
+#EXTINF:0 type="video" channelId="-1" group="NTV" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ntvcanli-hd
+#EXTINF:0 type="video" channelId="-1" group="Halk Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/halk-tv-canli
+#EXTINF:0 type="video" channelId="-1" group="A Haber" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/a-haber-canli
+#EXTINF:0 type="video" channelId="-1" group="Habertürk Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/haberturk-canli-hd
+#EXTINF:0 type="video" channelId="-1" group="CNN Türk" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cnnturk-canli-izle
+#EXTINF:0 type="video" channelId="-1" group="Haber Global" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/haber-global
+#EXTINF:0 type="video" channelId="-1" group="Tele1" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tele1-canli
+#EXTINF:0 type="video" channelId="-1" group="Kanal 24" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-24-canli
+#EXTINF:0 type="video" channelId="-1" group="TGRT Haber" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tgrthaber-canli
+#EXTINF:0 type="video" channelId="-1" group="TV100" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv100
+#EXTINF:0 type="video" channelId="-1" group="Ulusal Kanal" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ulusal-kanal
+#EXTINF:0 type="video" channelId="-1" group="Bloomberg HT" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bloomberg-ht-canli-hd-izle
+#EXTINF:0 type="video" channelId="-1" group="EkoTürk Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ekoturk-tv
+#EXTINF:0 type="video" channelId="-1" group="KRT Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/krt-tv
+#EXTINF:0 type="video" channelId="-1" group="Meclis Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/meclis-tv-canli
+#EXTINF:0 type="video" channelId="-1" group="Şaban Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/saban-tv
+#EXTINF:0 type="video" channelId="-1" group="Teve2" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/teve2-canli-izle
+#EXTINF:0 type="video" channelId="-1" group="5" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv85canli-hd
+#EXTINF:0 type="video" channelId="-1" group="Tv 360" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv-360
+#EXTINF:0 type="video" channelId="-1" group="Tv8 İnt" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv8intcanli
+#EXTINF:0 type="video" channelId="-1" group="A2 Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/a2-tv-canli-kesintisiz
+#EXTINF:0 type="video" channelId="-1" group="Euro Star" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eurostar-canli
+#EXTINF:0 type="video" channelId="-1" group="Euro D" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eurod-canli
+#EXTINF:0 type="video" channelId="-1" group="ATV Avrupa" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/atv-avrupa-canli
+#EXTINF:0 type="video" channelId="-1" group="D Max" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/d-max-canli
+#EXTINF:0 type="video" channelId="-1" group="TLC Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tlctv-canli
+#EXTINF:0 type="video" channelId="-1" group="CBC Sport" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cbcsportcanli-hd
+#EXTINF:0 type="video" channelId="-1" group="İdman Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/idmantvcanli
+#EXTINF:0 type="video" channelId="-1" group="İctimai Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ictimai-tv
+#EXTINF:0 type="video" channelId="-1" group="Cartoon Network" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cartoon-network
+#EXTINF:0 type="video" channelId="-1" group="Minika Çocuk" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/minika-cocuk-16
+#EXTINF:0 type="video" channelId="-1" group="Minika Go" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/minika-go-canli
+#EXTINF:0 type="video" channelId="-1" group="TRT Çocuk" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtcocuk-canli
+#EXTINF:0 type="video" channelId="-1" group="GS Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/gs-tv
+#EXTINF:0 type="video" channelId="-1" group="FB Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/fb-tv
+#EXTINF:0 type="video" channelId="-1" group="TRT Belgesel" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtbelgesel-canli
+#EXTINF:0 type="video" channelId="-1" group="Sports Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sports-tv
+#EXTINF:0 type="video" channelId="-1" group="Cem Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/cem-tv
+#EXTINF:0 type="video" channelId="-1" group="TV42" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv42
+#EXTINF:0 type="video" channelId="-1" group="Bengütürk Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/benguturk-tv
+#EXTINF:0 type="video" channelId="-1" group="Akıllı Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/akilli-tv
+#EXTINF:0 type="video" channelId="-1" group="Milli Piyango TV" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/milli-piyango-tv
+#EXTINF:0 type="video" channelId="-1" group="İbb Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ibb-tv
+#EXTINF:0 type="video" channelId="-1" group="TRT Eba Tv İlkokul" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eba-tv-ilkokul
+#EXTINF:0 type="video" channelId="-1" group="TRT Eba Tv Ortaokul" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eba-tv-ortaokul
+#EXTINF:0 type="video" channelId="-1" group="TRT Eba Tv Lise" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/eba-tv-lise
+#EXTINF:0 type="video" channelId="-1" group="Meltem Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/meltem-tv
+#EXTINF:0 type="video" channelId="-1" group="Disney Channel" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/disneychannelcanli
+#EXTINF:0 type="video" channelId="-1" group="TGRT EU" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tgrt-eu
+#EXTINF:0 type="video" channelId="-1" group="TGRT Belgesel" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tgrt-belgesel
+#EXTINF:0 type="video" channelId="-1" group="Kon Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kon-tv
+#EXTINF:0 type="video" channelId="-1" group="Ülke Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ulke-tv-canli
+#EXTINF:0 type="video" channelId="-1" group="Olay Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/olay-tv
+#EXTINF:0 type="video" channelId="-1" group="Ses Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ses-tv
+#EXTINF:0 type="video" channelId="-1" group="Az Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/az-tv-canli
+#EXTINF:0 type="video" channelId="-1" group="Kral Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kral-tv-canli
+#EXTINF:0 type="video" channelId="-1" group="Kral Pop Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kral-pop-tv-canli
+#EXTINF:0 type="video" channelId="-1" group="Vatan Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/vatan-tv
+#EXTINF:0 type="video" channelId="-1" group="TRT Müzik" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtmuzik-canli
+#EXTINF:0 type="video" channelId="-1" group="Dream Türk" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/dreamturk-canli
+#EXTINF:0 type="video" channelId="-1" group="Bizimev Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bizimev-tv
+#EXTINF:0 type="video" channelId="-1" group="A Para" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/a-para-canli
+#EXTINF:0 type="video" channelId="-1" group="Power Türk Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/power-turk-tv
+#EXTINF:0 type="video" channelId="-1" group="Köy Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/koy-tv
+#EXTINF:0 type="video" channelId="-1" group="Number One Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/number-one-tv
+#EXTINF:0 type="video" channelId="-1" group="Power Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/power-tv
+#EXTINF:0 type="video" channelId="-1" group="Xezer Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/xezer-tv
+#EXTINF:0 type="video" channelId="-1" group="Tek Rumeli Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tek-rumeli-tv
+#EXTINF:0 type="video" channelId="-1" group="Number One Türk Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/number-one-turk-tv
+#EXTINF:0 type="video" channelId="-1" group="Yaban Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/yaban-tv
+#EXTINF:0 type="video" channelId="-1" group="Slow Karadeniz Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/slow-karadeniz-tv
+#EXTINF:0 type="video" channelId="-1" group="Semerkand Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/semerkand-tv
+#EXTINF:0 type="video" channelId="-1" group="Planet Türk" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/planet-turk
+#EXTINF:0 type="video" channelId="-1" group="Show Türk" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/show-turk-canli
+#EXTINF:0 type="video" channelId="-1" group="Edirne Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/edirne-tv
+#EXTINF:0 type="video" channelId="-1" group="Fil Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/fil-tv
+#EXTINF:0 type="video" channelId="-1" group="Beşiktaş Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/besiktas-tv
+#EXTINF:0 type="video" channelId="-1" group="Planet Çocuk" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/planet-cocuk
+#EXTINF:0 type="video" channelId="-1" group="TRT Arapça" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtarapca-canli
+#EXTINF:0 type="video" channelId="-1" group="Bursaspor Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bursaspor-tv
+#EXTINF:0 type="video" channelId="-1" group="Tivibu Spor" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tivibusporcanli
+#EXTINF:0 type="video" channelId="-1" group="Tay TV" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tjktvcanli-yayin
+#EXTINF:0 type="video" channelId="-1" group="Türkmen Sport" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/turkmen-sport
+#EXTINF:0 type="video" channelId="-1" group="Rüdaw Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/rudaw-tv
+#EXTINF:0 type="video" channelId="-1" group="TRT Kürdi" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtkurdi-canli
+#EXTINF:0 type="video" channelId="-1" group="ATV Azad Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/atv-azad-tv
+#EXTINF:0 type="video" channelId="-1" group="Kanal B" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-b-canli
+#EXTINF:0 type="video" channelId="-1" group="TRT Türk" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtturk-canli
+#EXTINF:0 type="video" channelId="-1" group="TVNET" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tvnet
+#EXTINF:0 type="video" channelId="-1" group="Dost Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/dost-tv
+#EXTINF:0 type="video" channelId="-1" group="Tv4" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv4
+#EXTINF:0 type="video" channelId="-1" group="TRT World" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtworldcanli
+#EXTINF:0 type="video" channelId="-1" group="TRT Avaz" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trtavaz-canli
+#EXTINF:0 type="video" channelId="-1" group="Diyanet Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/diyanet-tv
+#EXTINF:0 type="video" channelId="-1" group="Uçankuş Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ucankus-tv
+#EXTINF:0 type="video" channelId="-1" group="Kocaeli Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kocaeli-tv
+#EXTINF:0 type="video" channelId="-1" group="Show Max" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/show-max-canli
+#EXTINF:0 type="video" channelId="-1" group="Space Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/space-tv
+#EXTINF:0 type="video" channelId="-1" group="Akit Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/akit-tv
+#EXTINF:0 type="video" channelId="-1" group="Medine Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/medine-tv
+#EXTINF:0 type="video" channelId="-1" group="Ekin Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/ekin-tv
+#EXTINF:0 type="video" channelId="-1" group="TvEM" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tvem
+#EXTINF:0 type="video" channelId="-1" group="Damla Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/damla-tv-hd-izle
+#EXTINF:0 type="video" channelId="-1" group="Halk Tv Euro" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/halk-tv-euro-3
+#EXTINF:0 type="video" channelId="-1" group="Av Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/av-tv
+#EXTINF:0 type="video" channelId="-1" group="Hilal Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/hilal-tv
+#EXTINF:0 type="video" channelId="-1" group="FRM Tv HD" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/frm-tv
+#EXTINF:0 type="video" channelId="-1" group="Muz Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/muz-tv
+#EXTINF:0 type="video" channelId="-1" group="Kanal V" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-v
+#EXTINF:0 type="video" channelId="-1" group="Sony Mutfak" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sony-mutfak
+#EXTINF:0 type="video" channelId="-1" group="Kidz Animez" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kidz-animez
+#EXTINF:0 type="video" channelId="-1" group="Medeniyet Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/medeniyet-tv
+#EXTINF:0 type="video" channelId="-1" group="Kaçkar Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kackar-tv
+#EXTINF:0 type="video" channelId="-1" group="Düğün Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/dugun-tv
+#EXTINF:0 type="video" channelId="-1" group="Bursa Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bursa-tv
+#EXTINF:0 type="video" channelId="-1" group="Sony Channel Türkiye" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/sony-channel-turkiye
+#EXTINF:0 type="video" channelId="-1" group="Lider Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/lider-tv
+#EXTINF:0 type="video" channelId="-1" group="Milyon Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/milyon-tv
+#EXTINF:0 type="video" channelId="-1" group="TRT 2" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/trt2canlihd
+#EXTINF:0 type="video" channelId="-1" group="Gaziantep Olay Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/gaziantep-olay-tv
+#EXTINF:0 type="video" channelId="-1" group="1 TV Georgia" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/1-tv-georgia
+#EXTINF:0 type="video" channelId="-1" group="Kanal 26" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal26
+#EXTINF:0 type="video" channelId="-1" group="Kanal 3" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-3
+#EXTINF:0 type="video" channelId="-1" group="Kanal 68" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/kanal-68
+#EXTINF:0 type="video" channelId="-1" group="Lalegül TV" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/lalegul-tv
+#EXTINF:0 type="video" channelId="-1" group="Yat Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/yat-tv
+#EXTINF:0 type="video" channelId="-1" group="Bereket Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bereket-tv
+#EXTINF:0 type="video" channelId="-1" group="Bereket Hayvancılık Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/bereket-hayvancilik-tv
+#EXTINF:0 type="video" channelId="-1" group="Roman Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/roman-tv
+#EXTINF:0 type="video" channelId="-1" group="TV1" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv1-izle
+#EXTINF:0 type="video" channelId="-1" group="Tv52" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/tv-52
+#EXTINF:0 type="video" channelId="-1" group="BRT Tv" size="Medium", 1
+https://koprulu4.global.ssl.fastly.net/ctv/?url=https://tv.canlitv.vip/karabuk-brt-tv
+#EXTINF:0 type="video" channelId="-1" group="NPO 1" size="Medium", 1
+http://62.131.195.211:8086/12.ts
+#EXTINF:0 type="video" channelId="-1" group="NPO 2" size="Medium", 1
+http://62.131.195.211:8087/20.ts
+#EXTINF:0 type="video" channelId="-1" group="NPO ZAPPELEN" size="Medium", 1
+http://62.131.195.211:8087/24.ts
+#EXTINF:0 type="video" channelId="-1" group="RTL 4" size="Medium", 1
+http://62.131.195.211:8087/28.ts
+#EXTINF:0 type="video" channelId="-1" group="Z SELECT" size="Medium", 1
+http://62.131.195.211:8086/0.ts
+#EXTINF:0 type="video" channelId="-1" group="EUROSPORT 1" size="Medium", 1
+http://62.131.195.211:8086/8.ts
+#EXTINF:0 type="video" channelId="-1" group="ESPN" size="Medium", 1
+http://62.131.195.211:8086/4.ts
+#EXTINF:0 type="video" channelId="-1" group="EEURONEWS" size="Medium", 1
+http://46.47.113.35:4000/euronews.ts
+#EXTINF:0 type="video" channelId="-1" group="CNBC" size="Medium", 1
+http://46.47.113.35:4000/cnbc.ts
+#EXTINF:0 type="video" channelId="-1" group="BBCNEWS" size="Medium", 1
+http://46.47.113.35:4000/bbcnews.ts
+#EXTINF:0 type="video" channelId="-1" group="DW HD" size="Medium", 1
+http://46.47.113.35:4001/dw_hd.ts
+#EXTINF:0 type="video" channelId="-1" group="TRT WORLD" size="Medium", 1
+http://46.47.113.35:4002/trtworld.ts
+#EXTINF:0 type="video" channelId="-1" group="TRT 1" size="Medium", 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL D" size="Medium", 1
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8?app=kanald_web&ce=3
+#EXTINF:0 type="video" channelId="-1" group="KANAL D" size="Medium", 1
+http://89.187.191.41/Kanal-D-HD-TR/video.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ATV" size="Medium", 1
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:0 type="video" channelId="-1" group="STAR TV" size="Medium", 1
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SHOW TV" size="Medium", 1
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NOW" size="Medium", 1
+https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CNBC-E" size="Medium", 1
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 8" size="Medium", 1
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EURO D" size="Medium", 1
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ATV AVRUPA" size="Medium", 1
+https://tgn.bozztv.com/dvrfl05/gin-atvavrupa/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SHOW TURK" size="Medium", 1
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EUROSTAR" size="Medium", 1
+https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 8 INT" size="Medium", 1
+https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT 2" size="Medium", 1
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SHOW MAX" size="Medium", 1
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT TURK" size="Medium", 1
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT COCUK" size="Medium", 1
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 7" size="Medium", 1
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KANAL 7 AVRUPA" size="Medium", 1
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BEYAZ TV" size="Medium", 1
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TEVE 2" size="Medium", 1
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A2" size="Medium", 1
+https://c.fulltvizle.com/a2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="360" size="Medium", 1
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 4" size="Medium", 1
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="WOMAN TV" size="Medium", 1
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TGRT EU" size="Medium", 1
+https://tgn.bozztv.com/dvrfl05/gin-tgrteu/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TIVI 6" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BIR TV" size="Medium", 1
+https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CINE5 TV" size="Medium", 1
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CINE1" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="LIFE TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT SPOR" size="Medium", 1
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="beIN SPORTS HABER" size="Medium", 1
+https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 8.5" size="Medium", 1
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A SPOR" size="Medium", 1
+https://c.fulltvizle.com/aspor/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT SPOR YILDIZ" size="Medium", 1
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="SPORTS TV" size="Medium", 1
+https://sportstv.blutv.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="FB TV" size="Medium", 1
+https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="GS TV HD" size="Medium", 1
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TJK TV" size="Medium", 1
+https://tjktv-live.tjk.org/tjktv_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TJK TV YURT DISI" size="Medium", 1
+https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT BELGESEL" size="Medium", 1
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DMAX" size="Medium", 1
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TLC" size="Medium", 1
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT AVAZ" size="Medium", 1
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TGRT BELGESEL" size="Medium", 1
+https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT HABER" size="Medium", 1
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="CNN TURK" size="Medium", 1
+https://tgn.bozztv.com/dvrfl05/gin-cnnturk/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NTV" size="Medium", 1
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A HABER" size="Medium", 1
+https://c.fulltvizle.com/ahaber/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="A PARA HD" size="Medium", 1
+http://185.234.111.229:8000/play/a01l
+#EXTINF:0 type="video" channelId="-1" group="HALK TV" size="Medium", 1
+https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609
+#EXTINF:0 type="video" channelId="-1" group="SOZCU TV" size="Medium", 1
+https://szctvdvr.blutv.com/blutv_szctv_dvr/live_720p4350000kbps/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ULKE TV" size="Medium", 1
+https://ulketv.blutv.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HABER GLOBAL" size="Medium", 1
+https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BLOOMBERG HT" size="Medium", 1
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="HABERTURK" size="Medium", 1
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="24" size="Medium", 1
+https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:0 type="video" channelId="-1" group="ULUSAL TV" size="Medium", 1
+https://ythls.kekikakademi.org/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TV 100" size="Medium", 1
+https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
+#EXTINF:0 type="video" channelId="-1" group="TELE 1" size="Medium", 1
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KRT" size="Medium", 1
+https://krtdvr.blutv.com/blutv_krt_live_dvr/live_720p4350000kbps/index.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TVNET" size="Medium", 1
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EKOTURK" size="Medium", 1
+https://ythls.kekikakademi.org/youtube/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8
+#EXTINF:0 type="video" channelId="-1" group="AKIT TV" size="Medium", 1
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="BENGU TURK" size="Medium", 1
+https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TGRT HABER HD" size="Medium", 1
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TURKHABER" size="Medium", 1
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="FLASH HABER" size="Medium", 1
+https://ythls.kekikakademi.org/youtube/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NR1" size="Medium", 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="MILYON TV" size="Medium", 1
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:0 type="video" channelId="-1" group="KRAL POP" size="Medium", 1
+http://dygvideo.dygdigital.com/live/hls/kralpop
+#EXTINF:0 type="video" channelId="-1" group="TATLISES TV" size="Medium", 1
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NR1 ASK" size="Medium", 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NR1 DAMAR" size="Medium", 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NR1 DANCE" size="Medium", 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="NR1 FASHION ONE" size="Medium", 1
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="TRT MUZIK" size="Medium", 1
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="video" channelId="-1" group="DREAM TURK" size="Medium", 1
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TURK" size="Medium", 1
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TV" size="Medium", 1
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TURK TAPTAZE" size="Medium", 1
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER DANCE" size="Medium", 1
+https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER LOVE" size="Medium", 1
+https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TURK AKUSTIK" size="Medium", 1
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:0 type="video" channelId="-1" group="POWER TURK SLOW" size="Medium", 1
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8
+#EXTINF:0 type="video" channelId="-1" group="Zarok TV Kürtçe" size="Medium", 1
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:0 type="video" channelId="-1" group="EROTiK" size="Medium", 1
+#EXTINF:0 type="video" channelId="-1" group="XXX: Penthouse Gold HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992
+#EXTINF:0 type="video" channelId="-1" group="XXX| Penthouse Reality TV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993
+#EXTINF:0 type="video" channelId="-1" group="XXX: Babes TV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48994
+#EXTINF:0 type="video" channelId="-1" group="XXX: BangU" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48995
+#EXTINF:0 type="video" channelId="-1" group="XXX: Barely Legal" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48996
+#EXTINF:0 type="video" channelId="-1" group="XXX: Blue Hustler" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48997
+#EXTINF:0 type="video" channelId="-1" group="XXX: Brazzers TV" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48998
+#EXTINF:0 type="video" channelId="-1" group="XXX: Dorcel TV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48999
+#EXTINF:0 type="video" channelId="-1" group="XXX: Dorcel XXX TV" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49000
+#EXTINF:0 type="video" channelId="-1" group="XXX: Erox HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49001
+#EXTINF:0 type="video" channelId="-1" group="XXX: Eroxxx HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49002
+#EXTINF:0 type="video" channelId="-1" group="XXX: Evil Angel HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49003
+#EXTINF:0 type="video" channelId="-1" group="XXX: Extasy" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49004
+#EXTINF:0 type="video" channelId="-1" group="XXX: Fantazzy TV" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49005
+#EXTINF:0 type="video" channelId="-1" group="XXX: Hustler" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49006
+#EXTINF:0 type="video" channelId="-1" group="XXX: Hustler HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49007
+#EXTINF:0 type="video" channelId="-1" group="XXX: Playboy TV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49008
+#EXTINF:0 type="video" channelId="-1" group="XXX: Private TV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49009
+#EXTINF:0 type="video" channelId="-1" group="XXX: Pure Babes" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49010
+#EXTINF:0 type="video" channelId="-1" group="XXX: Reality Kings" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49011
+#EXTINF:0 type="video" channelId="-1" group="XXX: Redlight HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49012
+#EXTINF:0 type="video" channelId="-1" group="XXX: Vivid Red HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49013
+#EXTINF:0 type="video" channelId="-1" group="XXX: Super One" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49014
+#EXTINF:0 type="video" channelId="-1" group="XXX: XY plus" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49015
+#EXTINF:0 type="video" channelId="-1" group="XXX: XY max" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016
+#EXTINF:0 type="video" channelId="-1" group="XXX: XY mix" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017
+#EXTINF:0 type="video" channelId="-1" group="TRT 4K" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
+#EXTINF:0 type="video" channelId="-1" group="TR: TRT1 HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48839
+#EXTINF:0 type="video" channelId="-1" group="TR: TRT 1" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48840
+#EXTINF:0 type="video" channelId="-1" group="TR: TRT2 HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48841
+#EXTINF:0 type="video" channelId="-1" group="TR: TRT TURK HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48842
+#EXTINF:0 type="video" channelId="-1" group="TR: TRT TURK" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48843
+#EXTINF:0 type="video" channelId="-1" group="TR: ATV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
+#EXTINF:0 type="video" channelId="-1" group="TR: ATV" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48847
+#EXTINF:0 type="video" channelId="-1" group="TR: SHOW HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
+#EXTINF:0 type="video" channelId="-1" group="TR: SHOW TV" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48849
+#EXTINF:0 type="video" channelId="-1" group="TR: SHOW Turk HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48850
+#EXTINF:0 type="video" channelId="-1" group="TR: STAR TV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
+#EXTINF:0 type="video" channelId="-1" group="TR: STAR TV" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48852
+#EXTINF:0 type="video" channelId="-1" group="TR: EUROSTAR SD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48853
+#EXTINF:0 type="video" channelId="-1" group="TR: Kanal D HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48854
+#EXTINF:0 type="video" channelId="-1" group="TR: KANAL D" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48855
+#EXTINF:0 type="video" channelId="-1" group="TR: EURO D HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48856
+#EXTINF:0 type="video" channelId="-1" group="TR: EURO D" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48857
+#EXTINF:0 type="video" channelId="-1" group="TR: NOW TV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48858
+#EXTINF:0 type="video" channelId="-1" group="TR: TV 8 HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
+#EXTINF:0 type="video" channelId="-1" group="TR: TV 8 SD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48860
+#EXTINF:0 type="video" channelId="-1" group="TR: TV 8 INT" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48861
+#EXTINF:0 type="video" channelId="-1" group="TR: TV 8.5 HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48862
+#EXTINF:0 type="video" channelId="-1" group="TR: KANAL 7 HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48863
+#EXTINF:0 type="video" channelId="-1" group="TR: TV8 5" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48864
+#EXTINF:0 type="video" channelId="-1" group="TR: KANAL 7" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48865
+#EXTINF:0 type="video" channelId="-1" group="TR: KANAL 7 AVRUPA" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48866
+#EXTINF:0 type="video" channelId="-1" group="TR: SHOW MAX HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48867
+#EXTINF:0 type="video" channelId="-1" group="TR: SHOW MAX" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868
+#EXTINF:0 type="video" channelId="-1" group="TR: TGRT EU" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48869
+#EXTINF:0 type="video" channelId="-1" group="TR: TEVE2 HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
+#EXTINF:0 type="video" channelId="-1" group="TR: Teve 2" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48871
+#EXTINF:0 type="video" channelId="-1" group="TR: TLC" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
+#EXTINF:0 type="video" channelId="-1" group="TR: A2 TV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48873
+#EXTINF:0 type="video" channelId="-1" group="TR: A2" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48874
+#EXTINF:0 type="video" channelId="-1" group="TR: FX HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
+#EXTINF:0 type="video" channelId="-1" group="TR: 360 TV HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
+#EXTINF:0 type="video" channelId="-1" group="TR: BLOOMBERGHT HD" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48877
+#EXTINF:0 type="video" channelId="-1" group="TR: TV 100" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
+#EXTINF:0 type="video" channelId="-1" group="TR: HALK TV" size="Medium", 1
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
