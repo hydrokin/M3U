@@ -1,805 +1,629 @@
 #EXTM3U
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL BELGESEL" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-BELGESEL",TR: UNIVERSAL BELGESEL
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/97172
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL DISCOVERY" tvg-logo="https://logo.multicms.info/TVlogolar/UniversalDiscovery.jpg" group-title="TR-BELGESEL",TR: UNIVERSAL DISCOVERY
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/253585
-#EXTINF:0 tvg-agent="Firefox" tvg-id="National Geographic" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.multicms.info/tvlogo/natgeohd.png" group-title="TR-BELGESEL",TR: NATIONAL GEOGRAPHIC HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/286
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Nat Geo Wild" tvg-name="TR: NAT GEO WILD HD" tvg-logo="http://logo.multicms.info/tvlogo/natgeowild.png" group-title="TR-BELGESEL",TR: NAT GEO WILD HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/282
-#EXTINF:0 tvg-agent="Firefox" tvg-id="History" tvg-name="TR: HISTORY CHANNEL" tvg-logo="http://logo.multicms.info/tvlogo/historyhd.png" group-title="TR-BELGESEL",TR: HISTORY CHANNEL
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/278
-#EXTINF:0 tvg-agent="Firefox" tvg-id="HABİTAT TV" tvg-name="TR: HABITAT TV" tvg-logo="http://logo.multicms.info/tvlogo/HABITATTV.jpg" group-title="TR-BELGESEL",TR: HABITAT TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/78416
-#EXTINF:0 tvg-agent="Firefox" tvg-id="DMAX" tvg-name="TR: DMAX FHD" tvg-logo="http://logo.multicms.info/tvlogo/dmax.png" group-title="TR-BELGESEL",TR: DMAX FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/274
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN GURME" tvg-name="TR: BEIN GURME HD" tvg-logo="http://logo.multicms.info/tvlogo/beingurme.png" group-title="TR-BELGESEL",TR: BEIN GURME HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/271
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN İZ" tvg-name="TR: BEIN IZ HD" tvg-logo="http://logo.multicms.info/tvlogo/beiniz.png" group-title="TR-BELGESEL",TR: BEIN IZ HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/270
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Love Nature" tvg-name="TR: LOVE NATURE" tvg-logo="http://logo.multicms.info/logoslar/lovenaturehd.png" group-title="TR-BELGESEL",TR: LOVE NATURE
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50428
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Discovery Channel" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="http://logo.multicms.info/tvlogo/discoveryhd.png" group-title="TR-BELGESEL",TR: DISCOVERY CHANNEL
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/264
-#EXTINF:0 tvg-agent="Firefox" tvg-id="ID" tvg-name="TR: DISCOVERY IDX" tvg-logo="http://logo.multicms.info/tvlogo/idxhd.png" group-title="TR-BELGESEL",TR: DISCOVERY IDX
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/261
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Yaban TV" tvg-name="TR: YABAN TV HD" tvg-logo="http://logo.multicms.info/tvlogo/yaban.png" group-title="TR-BELGESEL",TR: YABAN TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/15018
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tarih TV" tvg-name="TR: TARIH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/250px-Tarih-tv-logo-siyah-1080x1080.png" group-title="TR-BELGESEL",TR: TARIH TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/140595
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Belgesel" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://logo.multicms.info/tvlogo/trtbelgeselhd.png" group-title="TR-BELGESEL",TR: TRT BELGESEL HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50847
-#EXTINF:0 tvg-agent="Firefox" tvg-id="BBC EARTH" tvg-name="TR: BBC Earth HD" tvg-logo="http://logo.multicms.info/tvlogo/bbcearth.png" group-title="TR-BELGESEL",TR: BBC Earth HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/258
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Da Vinci" tvg-name="TR: DA Vinci" tvg-logo="http://logo.multicms.info/tvlogo/davincilearning.png" group-title="TR-BELGESEL",TR: DA Vinci
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/253
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Viasat History" tvg-name="TR: VIASAT HISTORY" tvg-logo="http://logo.multicms.info/tvlogo/VIASAT-HISTORY.jpg" group-title="TR-BELGESEL",TR: VIASAT HISTORY
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/47970
-#EXTINF:0 tvg-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: VIASAT EXPLORER
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/234449
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL COCUK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-COCUK",TR: UNIVERSAL COCUK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222340
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL DISNEY" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-COCUK",TR: UNIVERSAL DISNEY
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/64153
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX PEMBE PANTER" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX PEMBE PANTER
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/49046
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX REDKIT" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX REDKIT
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/63262
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX SIRINLER" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX SIRINLER
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/60729
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX ASLAN" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX ASLAN
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249397
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX BIZ IKIMIZ" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX BIZ IKIMIZ
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249396
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX BULMACA KULESI" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX BULMACA KULESI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249395
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX CILLE" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX CILLE
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249394
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX DORU" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX DORU
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249393
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX EGE ILE GAGA" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX EGE ILE GAGA
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249392
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX ELIFIN DUSLERI" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX ELIFIN DUSLERI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249391
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX ELIF VE ARKADASLARI" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX ELIF VE ARKADASLARI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249390
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX EMIRAY" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX EMIRAY
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249389
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX KUCUK HAZERFAN" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX KUCUK HAZERFAN
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249388
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX IBI" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX IBI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249387
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX KAPTAN PENGU" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX KAPTAN PENGU
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249386
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX KARE" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX KARE
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249385
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX KOSTEBEKGILLER" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX KOSTEBEKGILLER
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249384
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX LEYLEK KARDES" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX LEYLEK KARDES
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249383
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX MAYSA VE BULUT" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX MAYSA VE BULUT
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249382
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX MUTLU OYUNCAKLAR" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX MUTLU OYUNCAKLAR
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249381
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX NASREDDIN HOCA" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX NASREDDIN HOCA
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249380
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX PIRIL" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX PIRIL
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249379
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX TAVSAN MOMO" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX TAVSAN MOMO
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249378
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX YADE" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX YADE
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249377
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX TOM AND JERRY" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX TOM AND JERRY
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/54875
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX RAFADAN TAYFA" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX RAFADAN TAYFA
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10444
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX PEPE" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX PEPE
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10443
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX SEVIMLI DOSTLAR" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX SEVIMLI DOSTLAR
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10445
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX NILOYA" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX NILOYA
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10442
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX MASHA ILE KOCA AYI" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX MASHA ILE KOCA AYI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10441
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX LIMON ILE ZEYTIN" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX LIMON ILE ZEYTIN
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10440
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX KUZUCUK" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX KUZUCUK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10439
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX KUKULI" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX KUKULI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10438
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX PIJAMASKELILER" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX PIJAMASKELILER
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20026
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX KRAL SAKIR" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX KRAL SAKIR
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10437
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX CANIM KARDESIM" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX CANIM KARDESIM
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10436
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX KELOGLAN" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX KELOGLAN
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/10435
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX BARBIE" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX BARBIE
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/60115
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX GRIZY VE LEMINGLER" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX GRIZY VE LEMINGLER
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/60116
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MINIBOX KONUSAN TOM" tvg-logo="http://logo.multicms.info/logoslar/minibox.png" group-title="TR-COCUK",TR: MINIBOX KONUSAN TOM
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/60117
-#EXTINF:0 tvg-agent="Firefox" tvg-id="BOOMERANG" tvg-name="TR: CARTOONITO" tvg-logo="http://logo.multicms.info/tvlogo/boomeranghd.png" group-title="TR-COCUK",TR: CARTOONITO
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/15020
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Çocuk Smart" tvg-name="TR: COCUK SMART" tvg-logo="http://logo.multicms.info/tvlogo/smartcocuk.png" group-title="TR-COCUK",TR: COCUK SMART
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/38394
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Çocuk" tvg-name="TR: TRT COCUK FHD" tvg-logo="http://logo.multicms.info/tvlogo/trtcocukhd.png" group-title="TR-COCUK",TR: TRT COCUK FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/308
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Minika Çocuk" tvg-name="TR: MINIKA COCUK FHD" tvg-logo="http://logo.multicms.info/tvlogo/minikacocuk.png" group-title="TR-COCUK",TR: MINIKA COCUK FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/306
-#EXTINF:0 tvg-agent="Firefox" tvg-id="MinikaGO" tvg-name="TR: MINIKA GO FHD" tvg-logo="http://logo.multicms.info/tvlogo/minikago.png" group-title="TR-COCUK",TR: MINIKA GO FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/304
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Cartoon Network" tvg-name="TR: CARTOON NETWORK HD" tvg-logo="http://logo.multicms.info/tvlogo/cartoonnetwork.png" group-title="TR-COCUK",TR: CARTOON NETWORK HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/301
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NICKTOONS" tvg-name="TR: NICKTOONS" tvg-logo="https://logo.multicms.info/tvlogo/nicktoons.png" group-title="TR-COCUK",TR: NICKTOONS
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/234450
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Nickelodeon" tvg-name="TR: NICKELODEON" tvg-logo="http://logo.multicms.info/tvlogo/nickelodeonhd.png" group-title="TR-COCUK",TR: NICKELODEON
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/298
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TRT Diyanet Cocuk" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2042000/trt-cocuk-2042635_1.jpg" group-title="TR-COCUK",TR: TRT Diyanet Cocuk
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/244105
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Nick Jr." tvg-name="TR: NICK JR" tvg-logo="http://logo.multicms.info/tvlogo/nickjr.png" group-title="TR-COCUK",TR: NICK JR
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/297
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Baby TV" tvg-name="TR: BABY TV" tvg-logo="http://logo.multicms.info/tvlogo/babytvhd.png" group-title="TR-COCUK",TR: BABY TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/295
-#EXTINF:0 tvg-agent="Firefox" tvg-id="DUCKTV" tvg-name="TR: DUCK TV" tvg-logo="https://logo.multicms.info/tvlogo/duck.png" group-title="TR-COCUK",TR: DUCK TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/234451
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Disney Junior" tvg-name="TR: DISNEY JR HD" tvg-logo="http://logo.multicms.info/tvlogo/disneyjuniorhd.png" group-title="TR-COCUK",TR: DISNEY JR HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/291
-#EXTINF:0 tvg-agent="Firefox" tvg-id="VAV TV" tvg-name="TR: Vav TV" tvg-logo="https://pbs.twimg.com/profile_images/1440237065011007491/3VNUG4pQ_400x400.jpg" group-title="TR-DINI",TR: Vav TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/108957
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: REHBER" tvg-logo="https://w1.pngwing.com/pngs/289/53/png-transparent-tv-rehber-tv-television-television-channel-a9-tv-trt-diyanet-advertising-live-television-thumbnail.png" group-title="TR-DINI",TR: REHBER
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/103451
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: DOST TV" tvg-logo="http://logo.multicms.info/tvlogo/dost.png" group-title="TR-DINI",TR: DOST TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50941
-#EXTINF:0 tvg-agent="Firefox" tvg-id="SEMERKAND TV" tvg-name="TR: Semerkand TV" tvg-logo="http://logo.multicms.info/tvlogo/semerkandhd.png" group-title="TR-DINI",TR: Semerkand TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/53037
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Lalegul" tvg-logo="http://logo.multicms.info/tvlogo/lalegul.png" group-title="TR-DINI",TR: Lalegul
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/54675
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Diyanet TV" tvg-name="TR: DIYANET TV" tvg-logo="http://logo.multicms.info/tvlogo/diyanettv.jpg" group-title="TR-DINI",TR: DIYANET TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/59796
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KUDUS TV" tvg-logo="http://logo.multicms.info/tvlogo/kudustv.png" group-title="TR-DINI",TR: KUDUS TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50942
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Dizi Smart Max" tvg-name="TR: Dizismart Max" tvg-logo="http://logo.multicms.info/logoslar/dizismartmax.png" group-title="TR-DIZI",TR: Dizismart Max
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/60119
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Epic Drama" tvg-name="TR: EPIC DRAMA" tvg-logo="http://logo.multicms.info/logoslar/Epicdrama.jpg" group-title="TR-DIZI",TR: EPIC DRAMA
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50426
-#EXTINF:0 tvg-agent="Firefox" tvg-id="FX" tvg-name="TR: FX FHD" tvg-logo="http://logo.multicms.info/logoslar/fxhd.png" group-title="TR-DIZI",TR: FX FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/12
-#EXTINF:0 tvg-agent="Firefox" tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="TR-DIZI",TR: BBC First
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/165462
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL KAFA TV" tvg-logo="https://thumbor.evrimagaci.org/-xhk7Egtz6qUj9pcDF-WtnWOjaY=/old%2Fmi_media%2Fb37602907f01e2c85885518046a46d21.jpeg" group-title="TR-EGLENCE",TR: UNIVERSAL KAFA TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/267784
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Olacak O Kadar" tvg-logo="https://i.odatv.com/2/480/264/storage/old/images/2019_07/2019_07_19/1980li-yillarin-unutulmaz-tv-programi-olacak-o-kadar-19071941_l2.jpg" group-title="TR-EGLENCE",TR: Universal Olacak O Kadar
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/253156
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Talk Show" tvg-logo="https://t3.ftcdn.net/jpg/04/55/48/14/360_F_455481490_oJe1oPfAHrEwJVU3fBWvcSEhvqnZFZVW.jpg" group-title="TR-EGLENCE",TR: Universal Talk Show
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/249993
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Stand-UP" tvg-logo="https://icon2.cleanpng.com/20180805/ks/kisspng-logo-brand-font-product-m78n-88d80ae7ab2ba499072a600fe285d17a-5b67025829ac06.3751495015334774641707.jpg" group-title="TR-EGLENCE",TR: Universal Stand-UP
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/247683
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL 1 Kadin 1 Erkek" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/e2/1k1e.png/220px-1k1e.png" group-title="TR-EGLENCE",TR: UNIVERSAL 1 Kadin 1 Erkek
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232633
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL Çok Güzel Hareketler Bunlar" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/59/%C3%87ok_G%C3%BCzel_Hareketler_Bunlar_a%C3%A7%C4%B1l%C4%B1%C5%9F_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg" group-title="TR-EGLENCE",TR: UNIVERSAL Çok Güzel Hareketler Bunlar
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/225548
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL GÜLDÜR GÜLDÜR SHOW" tvg-logo="http://logo.multicms.info/logoslar/guldurguldur.jpg" group-title="TR-EGLENCE",TR: UNIVERSAL GÜLDÜR GÜLDÜR SHOW
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/19988
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 1" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/61351
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 2" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/97877
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 3" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 3
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/106027
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 4 Formula 1" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 4 Formula 1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232435
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 5 Formula 1" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 5 Formula 1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/247370
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 6 UFC" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 6 UFC
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/272922
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 SD/MOBIL" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 SD/MOBIL
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/84
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/89
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 1 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/77238
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS" tvg-name="TR: Bein Sports 1 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: Bein Sports 1 (Yuksek Kalite) Mac Zamani
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/237081
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN SPORTS 4K (Mac Zamani)" tvg-logo="https://logo.multicms.info/logoslar/Bein-4K.jpg" group-title="TR-SPOR",TR: beIN SPORTS 4K (Mac Zamani)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/269805
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: PLUS 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 1 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337958
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: PLUS 2 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 2 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337959
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Bein Xtra" tvg-logo="https://logo.multicms.info/tvlogo/BeinsportsXtra.jpg" group-title="TR-SPOR",TR: Bein Xtra
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/256065
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 2 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: BEIN SPORTS 2 SD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/116675
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: BEIN SPORTS 2 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/31408
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: beIN SPORTS 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: beIN SPORTS 2 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/87
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 2" tvg-name="TR: Bein Sports 2 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: Bein Sports 2 (Yuksek Kalite) Mac Zamani
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/223132
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 3 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="TR-SPOR",TR: BEIN SPORTS 3 SD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/116676
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="TR-SPOR",TR: BEIN SPORTS 3 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/31409
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="TR-SPOR",TR: beIN SPORTS 3 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/31407
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 3" tvg-name="TR: Bein Sports 3 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports3.png" group-title="TR-SPOR",TR: Bein Sports 3 (Yuksek Kalite) Mac Zamani
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/223133
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 4 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: BEIN SPORTS 4 SD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/116677
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 4" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: beIN SPORTS 4 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/81
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 4" tvg-name="TR: Bein Sports 4 (Yuksek Kalite) Mac Zamani" tvg-logo="http://logo.multicms.info/logoslar/beinsports4.png" group-title="TR-SPOR",TR: Bein Sports 4 (Yuksek Kalite) Mac Zamani
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/223134
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 5" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: beIN SPORTS 5 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/172690
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS 5" tvg-name="TR: Bein Sports 5 (Yuksek Kalite) Mac Zamani" tvg-logo="http://afis.unimaxapp.eu/logoslar/beinsports1.png" group-title="TR-SPOR",TR: Bein Sports 5 (Yuksek Kalite) Mac Zamani
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/223135
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 1" tvg-name="TR: beIN SPORTS MAX 1 HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-1-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 1 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/79
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 1" tvg-name="TR: beIN SPORTS MAX 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-1-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 1 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/80
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 2" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-2-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 2 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/77
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS MAX 2" tvg-name="TR: beIN SPORTS MAX 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-max-2-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS MAX 2 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/78
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN SPORTS HABER" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="http://logo.multicms.info/logoslar/bein-sports-haber-qa-tr.png" group-title="TR-SPOR",TR: beIN SPORTS HABER HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/76
-#EXTINF:0 tvg-agent="Firefox" tvg-id="A Spor" tvg-name="TR: ASPOR FHD" tvg-logo="http://logo.multicms.info/tvlogo/asporhd.png" group-title="TR-SPOR",TR: ASPOR FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/61
-#EXTINF:0 tvg-agent="Firefox" tvg-id="A Spor" tvg-name="TR: ASPOR HD" tvg-logo="http://logo.multicms.info/tvlogo/asporhd.png" group-title="TR-SPOR",TR: ASPOR HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/60
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EKOL SPORTS" tvg-logo="https://canlitv.com/kanal/logo/13433.jpg" group-title="TR-SPOR",TR: EKOL SPORTS
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/314140
-#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport" tvg-name="TR: S Sport HD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/32058
-#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport" tvg-name="TR: S Sport FHD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/68
-#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport 2" tvg-name="TR: S Sport 2 HD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport 2 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/15169
-#EXTINF:0 tvg-agent="Firefox" tvg-id="S Sport 2" tvg-name="TR: S Sport 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/ssporthd.png" group-title="TR-SPOR",TR: S Sport 2 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232183
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor" tvg-name="TR: TIVIBUSPOR" tvg-logo="http://logo.multicms.info/logoslar/tivibu.png" group-title="TR-SPOR",TR: TIVIBUSPOR
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/216195
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 1" tvg-name="TR: TIVIBUSPOR 1 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibu.png" group-title="TR-SPOR",TR: TIVIBUSPOR 1 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/75
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 2" tvg-name="TR: TIVIBUSPOR 2 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibuspor2hd.png" group-title="TR-SPOR",TR: TIVIBUSPOR 2 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/74
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 3" tvg-name="TR: TIVIBUSPOR 3 HD" tvg-logo="http://logo.multicms.info/logoslar/tivibuspor3hd.png" group-title="TR-SPOR",TR: TIVIBUSPOR 3 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/73
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Tivibu Spor 4" tvg-name="TR: TIVIBUSPOR 4 HD" tvg-logo="http://logo.multicms.info/tvlogo/tivibuspor4hd.png" group-title="TR-SPOR",TR: TIVIBUSPOR 4 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/96999
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Spor Smart" tvg-name="TR: SPORSMART HD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor.png" group-title="TR-SPOR",TR: SPORSMART HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/231858
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Spor Smart" tvg-name="TR: SPORSMART FHD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor.png" group-title="TR-SPOR",TR: SPORSMART FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/60118
-#EXTINF:0 tvg-agent="Firefox" tvg-id="SPOR SMART 2" tvg-name="TR: SPORSMART 2 FHD" tvg-logo="http://logo.multicms.info/tvlogo/smartspor2.png" group-title="TR-SPOR",TR: SPORSMART 2 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/57772
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Eurosport 1" tvg-name="TR: Eurosport 1 HD" tvg-logo="http://logo.multicms.info/tvlogo/eurosport1hd.png" group-title="TR-SPOR",TR: Eurosport 1 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/65
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Eurosport 2" tvg-name="TR: Eurosport 2 HD" tvg-logo="http://logo.multicms.info/tvlogo/eurosport2hd.png" group-title="TR-SPOR",TR: Eurosport 2 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/64
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT SPOR" tvg-name="TR: TRT SPOR FHD" tvg-logo="http://logo.multicms.info/tvlogo/trtsporhd.png" group-title="TR-SPOR",TR: TRT SPOR FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/63
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT SPOR" tvg-name="TR: TRT SPOR HD" tvg-logo="http://logo.multicms.info/tvlogo/trtsporhd.png" group-title="TR-SPOR",TR: TRT SPOR HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/62
-#EXTINF:0 tvg-agent="Firefox" tvg-id="tabii Spor" tvg-name="TR: Tabii Spor" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/256704
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 1" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/255108
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 2" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/255107
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 3" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 3
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/255106
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 4" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 4
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/255105
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 5" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 5
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/255104
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 6" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 6
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/255103
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 7" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 7
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/333399
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 8" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 8
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/333398
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 9" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 9
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/333397
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Tabii Spor 10" tvg-logo="https://cms-tabii-assets.tabii.com/thumbnails/23963_781e9dee-cbd8-491a-b166-0b1df25b3bd0_720.jpeg" group-title="TR-SPOR",TR: Tabii Spor 10
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/333396
-#EXTINF:0 tvg-agent="Firefox" tvg-id="HT SPOR" tvg-name="TR: HT SPOR" tvg-logo="https://logo.multicms.info/TVlogolar/htspor.jpg" group-title="TR-SPOR",TR: HT SPOR
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/246337
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://logo.multicms.info/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/28
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 HD" tvg-logo="http://logo.multicms.info/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/27
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Spor Yıldız" tvg-name="TR: TRT SPOR YILDIZ" tvg-logo="http://logo.multicms.info/tvlogo/TRT_Spor_Yildiz_Logo.png" group-title="TR-SPOR",TR: TRT SPOR YILDIZ
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/97008
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: SIFIR TV" tvg-logo="https://logo.multicms.info/tvlogo/sifirtv.jpg" group-title="TR-SPOR",TR: SIFIR TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/316094
-#EXTINF:0 tvg-agent="Firefox" tvg-id="FB TV" tvg-name="TR: FBTV HD" tvg-logo="http://logo.multicms.info/logoslar/fbtv.png" group-title="TR-SPOR",TR: FBTV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/57
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NBA TV" tvg-name="TR: NBA TV HD" tvg-logo="http://logo.multicms.info/logoslar/nba.png" group-title="TR-SPOR",TR: NBA TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/67
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TAY TV" tvg-name="TR: TJK TV" tvg-logo="http://logo.multicms.info/logoslar/tjkhd.png" group-title="TR-SPOR",TR: TJK TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/54
-#EXTINF:0 tvg-agent="Firefox" tvg-id="SPORTS TV" tvg-name="TR: SPORTS TV HD" tvg-logo="http://logo.multicms.info/logoslar/sportstv.png" group-title="TR-SPOR",TR: SPORTS TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/59
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 1 SD (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 1 SD (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/98582
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 1 HD (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 1 HD (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/97466
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 1 FHD (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 1 FHD (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/96896
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 2 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 2 (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/96972
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 3 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 3 (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/96973
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 4 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 4 (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/256328
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 5 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 5 (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/256329
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 6 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 6 (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/256330
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 7 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 7 (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/264314
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EXXEN 8 (MAC ZAMANI)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-SPOR",TR: EXXEN 8 (MAC ZAMANI)
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/264315
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 1 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 1 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/233930
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 2 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 2 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/233931
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 3 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 3 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/233932
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 4 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 4 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337176
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 5 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 5 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337175
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 6 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 6 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337174
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 7 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 7 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337173
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 8 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 8 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337172
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 9 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 9 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337171
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: S Sport+ 10 ( YAYIN ZAMANI AKTİF )" tvg-logo="https://www.oyunfor.com/Public/upload/kategori/2471/anaResim/s-sport-plus-ana.jpg" group-title="TR-SPOR",TR: S Sport+ 10 ( YAYIN ZAMANI AKTİF )
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337170
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BI TV" group-title="TR-SPOR",TR: BI TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/314376
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="YAKINDA SINEMALARDA" tvg-logo="http://logo.multicms.info/logoslar/upcoming.jpg" group-title="TR-SINEMA",YAKINDA SINEMALARDA
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/19291
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL SONVIZYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL SONVIZYON
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222407
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL CHOICE" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL CHOICE
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/223731
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL KEMAL SUNAL" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL KEMAL SUNAL
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/13741
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL FANTEZI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL FANTEZI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/13734
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL BILIMKURGU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL BILIMKURGU
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/13736
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL DRAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL DRAM
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/13733
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL WESTERN" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL WESTERN
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/56020
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL TURK" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL TURK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/13732
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL TURK KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL TURK KOMEDI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/59396
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL YESILCAM" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL YESILCAM
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/13731
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL YESILCAM KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL YESILCAM KOMEDI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/64002
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL AKSIYON" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL AKSIYON
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/13739
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL BEST PICTURES" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL BEST PICTURES
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/64149
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL KORKU" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL KORKU
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/13737
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL KOMEDI" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL KOMEDI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/13735
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios INFO" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios INFO
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20037
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 1" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20036
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 2" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20035
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 3" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 3
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20034
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 4" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 4
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20033
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 5" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 5
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20032
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 6" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 6
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20031
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 7" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 7
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20030
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 8" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 8
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20029
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 9" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 9
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20028
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Marvel Studios 10" tvg-logo="http://logo.multicms.info/logoslar/marvel.jpg" group-title="TR-SINEMA",TR: Universal Marvel Studios 10
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/20027
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 1" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/160
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 2" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/159
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 3" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 3
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/158
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 4" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 4
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/157
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 5" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 5
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/156
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 6" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 6
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/155
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 7" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 7
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/154
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 8" tvg-logo="http://logo.multicms.info/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 8
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/230514
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/115706
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/115707
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 3
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/115708
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 1" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/115709
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 2" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/115710
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 3" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 3
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/115711
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 4" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 4
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/115712
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 5" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 5
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/115713
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 6" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 6
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/115714
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: FILM SCREEN" tvg-logo="https://logo.multicms.info/tvlogo/filmscreen.jpg" group-title="TR-SINEMA",TR: FILM SCREEN
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/275983
-#EXTINF:0 tvg-agent="Firefox" tvg-id="SinemaTV" tvg-name="TR: SINEMA TV" tvg-logo="https://logo.multicms.info/tvlogo/sinemaTV.jpg" group-title="TR-SINEMA",TR: SINEMA TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/163
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv 2" tvg-name="TR: SINEMA TV 2" tvg-logo="https://logo.multicms.info/tvlogo/sinemaTV2.png" group-title="TR-SINEMA",TR: SINEMA TV 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/103139
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv Komedi" tvg-name="TR: SINEMA TV KOMEDI" tvg-logo="https://img.dsmartgo.com.tr//content/w/9a/22899/Thumbnail.png?v=637451113872971832" group-title="TR-SINEMA",TR: SINEMA TV KOMEDI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/168
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv Komedi 2" tvg-name="TR: SINEMA TV KOMEDI 2" tvg-logo="https://img.dsmartgo.com.tr//content/o/oG/22900/Thumbnail.png?v=637451114172995678" group-title="TR-SINEMA",TR: SINEMA TV KOMEDI 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/103143
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv Aksiyon" tvg-name="TR: SINEMA TV AKSIYON" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=173" group-title="TR-SINEMA",TR: SINEMA TV AKSIYON
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/167
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv Aksiyon 2" tvg-name="TR: SINEMA TV AKSIYON 2" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=579" group-title="TR-SINEMA",TR: SINEMA TV AKSIYON 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/103142
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv Aile" tvg-name="TR: SINEMA TV AILE" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=170" group-title="TR-SINEMA",TR: SINEMA TV AILE
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/166
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv Aile 2" tvg-name="TR: SINEMA TV AILE 2" tvg-logo="https://img.dsmartgo.com.tr//content/e/Mq/22898/Thumbnail.png?v=637451112840546049" group-title="TR-SINEMA",TR: SINEMA TV AILE 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/103141
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv Yerli" tvg-name="TR: SINEMA TV YERLI" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=584" group-title="TR-SINEMA",TR: SINEMA TV YERLI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/165
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv Yerli 2" tvg-name="TR: SINEMA TV YERLI 2" tvg-logo="https://logo.multicms.info/tvlogo/sinematvYerli2.jpg" group-title="TR-SINEMA",TR: SINEMA TV YERLI 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232360
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv 1001" tvg-name="TR: SINEMA TV 1001" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=171" group-title="TR-SINEMA",TR: SINEMA TV 1001
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/164
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sinema Tv 1002" tvg-name="TR: SINEMA TV 1002" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1002-300x217.png" group-title="TR-SINEMA",TR: SINEMA TV 1002
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/103140
-#EXTINF:0 tvg-agent="Firefox" tvg-id="MovieSmart Classic" tvg-name="TR: MOVIESMART Classic HD" tvg-logo="http://logo.multicms.info/logoslar/moviesmart.jpg" group-title="TR-SINEMA",TR: MOVIESMART Classic HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/216
-#EXTINF:0 tvg-agent="Firefox" tvg-id="MovieSmart Türk" tvg-name="TR: MOVIESMART TURK" tvg-logo="http://logo.multicms.info/logoslar/moviesmart.jpg" group-title="TR-SINEMA",TR: MOVIESMART TURK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/64828
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Filmbox" tvg-name="TR: Filmbox HD" tvg-logo="http://logo.multicms.info/tvlogo/filmboxhd.png" group-title="TR-SINEMA",TR: Filmbox HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/66460
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN MOVIES PREMIERE" tvg-name="TR: beIN Movies Premiere HD" tvg-logo="http://logo.multicms.info/logoslar/beinmovies.jpg" group-title="TR-SINEMA",TR: beIN Movies Premiere HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/225
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN MOVIES PREMIERE 2" tvg-name="TR: BEIN MOVIES PREMIER 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/BeIN_MOVIES_Premier-2_HD.png" group-title="TR-SINEMA",TR: BEIN MOVIES PREMIER 2
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/234446
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN MOVIES STARS" tvg-name="TR: beIN Movies Stars HD" tvg-logo="http://logo.multicms.info/logoslar/beinmovies.jpg" group-title="TR-SINEMA",TR: beIN Movies Stars HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/224
-#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN MOVIES TURK" tvg-name="TR: beIN Movies Turk HD" tvg-logo="http://logo.multicms.info/logoslar/beinmovies.jpg" group-title="TR-SINEMA",TR: beIN Movies Turk HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/223
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: beIN Movies Action" tvg-logo="https://digiturk-internet.com.tr/Upload/Galeri/Kucuk/03-234-5.png" group-title="TR-SINEMA",TR: beIN Movies Action
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232361
-#EXTINF:0 tvg-agent="Firefox" tvg-name="TR: BeIN Box Office" group-title="TR-SINEMA",TR: BeIN Box Office
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337661
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: DAMAR TV" tvg-logo="http://logo.multicms.info/logoslar/damartv.jpg" group-title="TR-MUZIK",TR: DAMAR TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/41839
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Roman TV" tvg-logo="http://logo.multicms.info/logoslar/roman.png" group-title="TR-MUZIK",TR: Universal Roman TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/23976
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL TURK POP MÜZİK" tvg-logo="http://logo.multicms.info/logoslar/pop.png" group-title="TR-MUZIK",TR: UNIVERSAL TURK POP MÜZİK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/19986
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Sezen Aksu" tvg-logo="https://i.pinimg.com/474x/d4/e8/2f/d4e82f90810a8d53e76282508d3ec6bb.jpg" group-title="TR-MUZIK",TR: Universal Sezen Aksu
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/102753
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Universal Muslum Gurses" tvg-logo="https://logowik.com/content/uploads/images/muslum-gurses9108.jpg" group-title="TR-MUZIK",TR: Universal Muslum Gurses
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/225751
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Kral Pop" tvg-name="TR: KRALPOP" tvg-logo="http://logo.multicms.info/tvlogo/kral.png" group-title="TR-MUZIK",TR: KRALPOP
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/15012
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Müzik" tvg-name="TR: TRT MUZIK HD" tvg-logo="http://logo.multicms.info/tvlogo/trtmuzik.png" group-title="TR-MUZIK",TR: TRT MUZIK HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/6925
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Power Türk" tvg-name="TR: POWER TURK HD" tvg-logo="http://logo.multicms.info/tvlogo/powerturk.png" group-title="TR-MUZIK",TR: POWER TURK HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/317
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Power TV" tvg-name="TR: POWER TV HD" tvg-logo="http://logo.multicms.info/tvlogo/power.png" group-title="TR-MUZIK",TR: POWER TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/315
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NR1 Türk" tvg-name="TR: NR1 TURK" tvg-logo="http://logo.multicms.info/tvlogo/nr1turkhd.png" group-title="TR-MUZIK",TR: NR1 TURK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/314
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NR1" tvg-name="TR: NR1" tvg-logo="https://logo.multicms.info/tvlogo/nr1.png" group-title="TR-MUZIK",TR: NR1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/234452
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Dream Türk" tvg-name="TR: DREAM TURK HD" tvg-logo="http://logo.multicms.info/tvlogo/dreamturk.png" group-title="TR-MUZIK",TR: DREAM TURK HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/310
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HIT MUZIK 90s" tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK 90s
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222521
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HIT MUZIK POP" tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK POP
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222520
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HIT MUZIK HALK" tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK HALK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222519
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HIT MUZIK JAZZ" tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK JAZZ
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222518
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HIT MUZIK KLASIK" tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK KLASIK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222517
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HIT MUZIK OZGUN" tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK OZGUN
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222516
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HIT MUZIK RAP" tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK RAP
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222515
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HIT MUZIK ROCK" tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK ROCK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222514
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HIT MUZIK SANAT" tvg-logo="https://logo.multicms.info/tvlogo/hitmuzik.jpg" group-title="TR-MUZIK",TR: HIT MUZIK SANAT
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222513
-#EXTINF:0 tvg-agent="Firefox" tvg-id="A Haber" tvg-name="TR: A HABER FHD" tvg-logo="http://logo.multicms.info/tvlogo/ahaberhd.png" group-title="TR-HABER",TR: A HABER FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/139
-#EXTINF:0 tvg-agent="Firefox" tvg-id="A Haber" tvg-name="TR: A HABER HD" tvg-logo="http://logo.multicms.info/tvlogo/ahaberhd.png" group-title="TR-HABER",TR: A HABER HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/140
-#EXTINF:0 tvg-agent="Firefox" tvg-id="CNN TÜRK" tvg-name="TR: CNN TURK FHD" tvg-logo="http://logo.multicms.info/tvlogo/cnnturk.png" group-title="TR-HABER",TR: CNN TURK FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/149
-#EXTINF:0 tvg-agent="Firefox" tvg-id="CNN TÜRK" tvg-name="TR: CNN TURK HD" tvg-logo="http://logo.multicms.info/tvlogo/cnnturk.png" group-title="TR-HABER",TR: CNN TURK HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/150
-#EXTINF:0 tvg-agent="Firefox" tvg-id="HABERTURK" tvg-name="TR: HABER TURK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg" group-title="TR-HABER",TR: HABER TURK FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/147
-#EXTINF:0 tvg-agent="Firefox" tvg-id="HABERTURK" tvg-name="TR: HABER TURK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg" group-title="TR-HABER",TR: HABER TURK HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/148
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NTV" tvg-name="TR: NTV FHD" tvg-logo="http://logo.multicms.info/tvlogo/ntvhd.png" group-title="TR-HABER",TR: NTV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/151
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NTV" tvg-name="TR: NTV HD" tvg-logo="http://logo.multicms.info/tvlogo/ntvhd.png" group-title="TR-HABER",TR: NTV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/152
-#EXTINF:0 tvg-agent="Firefox" tvg-id="HABER GLOBAL" tvg-name="TR: HABER GLOBAL FHD" tvg-logo="http://logo.multicms.info/logoslar/haberglobal.png" group-title="TR-HABER",TR: HABER GLOBAL FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/40495
-#EXTINF:0 tvg-agent="Firefox" tvg-id="HABER GLOBAL" tvg-name="TR: HABER GLOBAL HD" tvg-logo="http://logo.multicms.info/logoslar/haberglobal.png" group-title="TR-HABER",TR: HABER GLOBAL HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232359
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Haber" tvg-name="TR: TRT HABER FHD" tvg-logo="http://logo.multicms.info/tvlogo/trthaberhd.png" group-title="TR-HABER",TR: TRT HABER FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/145
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Haber" tvg-name="TR: TRT HABER HD" tvg-logo="http://logo.multicms.info/tvlogo/trthaberhd.png" group-title="TR-HABER",TR: TRT HABER HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/146
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Ülke TV" tvg-name="TR: ULKE TV FHD" tvg-logo="http://logo.multicms.info/tvlogo/ulkehd.png" group-title="TR-HABER",TR: ULKE TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/132
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Ülke TV" tvg-name="TR: ULKE TV HD" tvg-logo="http://logo.multicms.info/tvlogo/ulkehd.png" group-title="TR-HABER",TR: ULKE TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/133
-#EXTINF:0 tvg-agent="Firefox" tvg-id="KRT TV" tvg-name="TR: KRT TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20210903112243%21KRT_TV_logosu.png" group-title="TR-HABER",TR: KRT TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/15281
-#EXTINF:0 tvg-agent="Firefox" tvg-id="KRT TV" tvg-name="TR: KRT TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20210903112243%21KRT_TV_logosu.png" group-title="TR-HABER",TR: KRT TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232358
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Halk TV" tvg-name="TR: HALK TV FHD" tvg-logo="http://logo.multicms.info/logoslar/halk.png" group-title="TR-HABER",TR: HALK TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/5
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Halk TV" tvg-name="TR: HALK TV HD" tvg-logo="http://logo.multicms.info/logoslar/halk.png" group-title="TR-HABER",TR: HALK TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232357
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 100" tvg-name="TR: TV 100 FHD" tvg-logo="http://logo.multicms.info/tvlogo/tv100.png" group-title="TR-HABER",TR: TV 100 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50939
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 100" tvg-name="TR: TV 100 HD" tvg-logo="http://logo.multicms.info/tvlogo/tv100.png" group-title="TR-HABER",TR: TV 100 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232356
-#EXTINF:0 tvg-agent="Firefox" tvg-id="SÖZCÜ TV" tvg-name="TR: SZC TV FHD" tvg-logo="https://i.hizliresim.com/ljzg5ez.png" group-title="TR-HABER",TR: SZC TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/144
-#EXTINF:0 tvg-agent="Firefox" tvg-id="SÖZCÜ TV" tvg-name="TR: SZC TV HD" tvg-logo="https://i.hizliresim.com/ljzg5ez.png" group-title="TR-HABER",TR: SZC TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232355
-#EXTINF:0 tvg-agent="Firefox" tvg-id="KANAL 24" tvg-name="TR: 24 TV FHD" tvg-logo="http://logo.multicms.info/logoslar/kanal24.png" group-title="TR-HABER",TR: 24 TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/142
-#EXTINF:0 tvg-agent="Firefox" tvg-id="KANAL 24" tvg-name="TR: 24 TV HD" tvg-logo="http://logo.multicms.info/logoslar/kanal24.png" group-title="TR-HABER",TR: 24 TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232354
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TVNET" tvg-name="TR: TVNET FHD" tvg-logo="http://logo.multicms.info/tvlogo/tvnethd.png" group-title="TR-HABER",TR: TVNET FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/54676
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EKOL TV" tvg-logo="https://logo.multicms.info/TVlogolar/ekoltv.jpg" group-title="TR-HABER",TR: EKOL TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/255109
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TVNET" tvg-name="TR: TVNET HD" tvg-logo="http://logo.multicms.info/tvlogo/tvnethd.png" group-title="TR-HABER",TR: TVNET HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232353
-#EXTINF:0 tvg-agent="Firefox" tvg-id="BLOOMBERG" tvg-name="TR: BLOOMBERGHT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png" group-title="TR-HABER",TR: BLOOMBERGHT FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50842
-#EXTINF:0 tvg-agent="Firefox" tvg-id="BLOOMBERG" tvg-name="TR: BLOOMBERGHT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png" group-title="TR-HABER",TR: BLOOMBERGHT HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/137
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TGRT HABER" tvg-name="TR: TGRT HABER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="TR-HABER",TR: TGRT HABER FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/232352
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TGRT HABER" tvg-name="TR: TGRT HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="TR-HABER",TR: TGRT HABER HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222870
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TELE 1" tvg-name="TR: TELE 1 HD" tvg-logo="http://logo.multicms.info/tvlogo/tele1.png" group-title="TR-HABER",TR: TELE 1 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/121
-#EXTINF:0 tvg-agent="Firefox" tvg-id="ULUSAL KANAL" tvg-name="TR: ULUSAL KANAL" tvg-logo="http://logo.multicms.info/tvlogo/ulusal.png" group-title="TR-HABER",TR: ULUSAL KANAL
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/6
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BURSA LINE TV" group-title="TR-YEREL",TR: BURSA LINE TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/264445
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TRT AVAZ" group-title="TR-YEREL",TR: TRT AVAZ
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/234448
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ADA TV" group-title="TR-YEREL",TR: ADA TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222389
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: AKIT TV" tvg-logo="http://ssiptv.net/logos/akit.png" group-title="TR-YEREL",TR: AKIT TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/117
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: AKSU TV" tvg-logo="http://logo.multicms.info/tvlogo/aksu.png" group-title="TR-YEREL",TR: AKSU TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51071
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ALANYA DIM TV" group-title="TR-YEREL",TR: ALANYA DIM TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222384
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ALANYA ATV" group-title="TR-YEREL",TR: ALANYA ATV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222378
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ALANYA POSTA TV" group-title="TR-YEREL",TR: ALANYA POSTA TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222377
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: IBB TV" group-title="TR-YEREL",TR: IBB TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222390
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ARTI" tvg-logo="http://ssiptv.net/logos/arti.png" group-title="TR-YEREL",TR: ARTI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/123
-#EXTINF:0 tvg-agent="Firefox" tvg-id="AS TV" tvg-name="TR: ASTV" tvg-logo="http://logo.multicms.info/tvlogo/astv.png" group-title="TR-YEREL",TR: ASTV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51070
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TV 52" group-title="TR-YEREL",TR: TV 52
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222397
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KAY TV KAYSERI" group-title="TR-YEREL",TR: KAY TV KAYSERI
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222395
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HABER 61" group-title="TR-YEREL",TR: HABER 61
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222394
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: GUNEY TV" group-title="TR-YEREL",TR: GUNEY TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222393
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: GURBET24 TV" group-title="TR-YEREL",TR: GURBET24 TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222392
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: FORTUNA TV" group-title="TR-YEREL",TR: FORTUNA TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222391
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: VANGOLU TV" group-title="TR-YEREL",TR: VANGOLU TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222387
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: URFANATIK TV" group-title="TR-YEREL",TR: URFANATIK TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222386
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MERSIN ICEL TV" group-title="TR-YEREL",TR: MERSIN ICEL TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222383
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: GAZIANTEP OLAY TV" group-title="TR-YEREL",TR: GAZIANTEP OLAY TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222382
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EDESSA TV" tvg-logo="https://static.daktilo.com/sites/1451/uploads/2023/09/01/large/mobil.png" group-title="TR-YEREL",TR: EDESSA TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/103454
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Bengu Turk" tvg-logo="http://logo.multicms.info/tvlogo/benguturk.png" group-title="TR-YEREL",TR: Bengu Turk
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/61595
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Anadolu Dernek" tvg-logo="http://logo.multicms.info/tvlogo/ANADOLU-DERNEK.jpg" group-title="TR-YEREL",TR: Anadolu Dernek
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/62999
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Köy TV" tvg-name="TR: SANCAK TV" group-title="TR-YEREL",TR: SANCAK TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/63251
-#EXTINF:0 tvg-agent="Firefox" tvg-id="MELTEM TV" tvg-name="TR: Meltem TV" tvg-logo="http://logo.multicms.info/tvlogo/meltem.png" group-title="TR-YEREL",TR: Meltem TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/63250
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BLT TURK" tvg-logo="http://logo.multicms.info/tvlogo/bltturk.jpg" group-title="TR-YEREL",TR: BLT TURK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51072
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BR TV" tvg-logo="http://logo.multicms.info/tvlogo/brtv.png" group-title="TR-YEREL",TR: BR TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51073
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BRT 1" tvg-logo="http://logo.multicms.info/tvlogo/brt1.png" group-title="TR-YEREL",TR: BRT 1
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50949
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CAY TV" tvg-logo="http://logo.multicms.info/tvlogo/cay.png" group-title="TR-YEREL",TR: CAY TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50959
-#EXTINF:0 tvg-agent="Firefox" tvg-id="CEM TV" tvg-name="TR: CEM TV FHD" tvg-logo="http://ssiptv.net/logos/cem.png" group-title="TR-YEREL",TR: CEM TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/126
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: DEHA TV" tvg-logo="http://logo.multicms.info/tvlogo/deha.png" group-title="TR-YEREL",TR: DEHA TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51075
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: DENIZPOSTASI TV" tvg-logo="http://logo.multicms.info/tvlogo/denizpostasi.jpg" group-title="TR-YEREL",TR: DENIZPOSTASI TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51076
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: DIM TV" tvg-logo="http://logo.multicms.info/tvlogo/dimtv.jpg" group-title="TR-YEREL",TR: DIM TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51077
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EGE TV" tvg-logo="http://logo.multicms.info/tvlogo/ege.png" group-title="TR-YEREL",TR: EGE TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50984
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EKO TURK" tvg-logo="http://logo.multicms.info/logoslar/ekoturk.png" group-title="TR-YEREL",TR: EKO TURK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/31415
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ER TV" tvg-logo="http://logo.multicms.info/tvlogo/ertv_tr.png" group-title="TR-YEREL",TR: ER TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51078
-#EXTINF:0 tvg-agent="Firefox" tvg-id="ERT Şah" tvg-name="TR: ERT SAH TV" tvg-logo="http://logo.multicms.info/tvlogo/ert_sah_tr_tv.png" group-title="TR-YEREL",TR: ERT SAH TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51079
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: FRT TV" tvg-logo="http://logo.multicms.info/tvlogo/frttv.jpg" group-title="TR-YEREL",TR: FRT TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51080
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: GRT TV" tvg-logo="http://logo.multicms.info/tvlogo/grttv.jpg" group-title="TR-YEREL",TR: GRT TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51082
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ILKE TV" tvg-logo="http://logo.multicms.info/tvlogo/ilketv.jpg" group-title="TR-YEREL",TR: ILKE TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51083
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: 38 KENT TV" tvg-logo="http://logo.multicms.info/tvlogo/38kenttv.jpg" group-title="TR-YEREL",TR: 38 KENT TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51092
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL ANTALYA" group-title="TR-YEREL",TR: KANAL ANTALYA
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222388
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Kanal Fırat" tvg-name="TR: KANAL FIRAT" tvg-logo="http://logo.multicms.info/tvlogo/kanalfirat.jpg" group-title="TR-YEREL",TR: KANAL FIRAT
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51088
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 3" tvg-logo="http://logo.multicms.info/tvlogo/kanal3.jpg" group-title="TR-YEREL",TR: KANAL 3
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51087
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 15" tvg-logo="http://logo.multicms.info/tvlogo/kanal15.jpg" group-title="TR-YEREL",TR: KANAL 15
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51084
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 23" tvg-logo="http://logo.multicms.info/tvlogo/kanal23.jpg" group-title="TR-YEREL",TR: KANAL 23
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51085
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 26" tvg-logo="http://logo.multicms.info/tvlogo/kanal26.jpg" group-title="TR-YEREL",TR: KANAL 26
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51086
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 33" group-title="TR-YEREL",TR: KANAL 33
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222376
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL Z" tvg-logo="http://logo.multicms.info/tvlogo/KANALZ.jpg" group-title="TR-YEREL",TR: KANAL Z
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51089
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KAY TV" tvg-logo="http://logo.multicms.info/tvlogo/KAYTV.jpg" group-title="TR-YEREL",TR: KAY TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51091
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL URFA" tvg-logo="http://kanalurfa.com/wp-content/uploads/2020/04/ZITLOGO.png" group-title="TR-YEREL",TR: KANAL URFA
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/103452
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KIBRIS GENC TV" tvg-logo="http://logo.multicms.info/tvlogo/genctv.png" group-title="TR-YEREL",TR: KIBRIS GENC TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50952
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: LIFE TV" tvg-logo="http://logo.multicms.info/tvlogo/lifetv.jpg" group-title="TR-YEREL",TR: LIFE TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51093
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAVI KARADENIZ" tvg-logo="http://logo.multicms.info/tvlogo/mavikaradeniz.png" group-title="TR-YEREL",TR: MAVI KARADENIZ
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50996
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MERCAN TV" tvg-logo="http://logo.multicms.info/tvlogo/mercan.png" group-title="TR-YEREL",TR: MERCAN TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51094
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: OLAY TURK" tvg-logo="http://logo.multicms.info/tvlogo/olayturk.jpg" group-title="TR-YEREL",TR: OLAY TURK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51096
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: OLAY TV" tvg-logo="http://logo.multicms.info/tvlogo/olay.png" group-title="TR-YEREL",TR: OLAY TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51081
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sat 7 Türk" tvg-name="TR: SAT 7 TURK" tvg-logo="http://logo.multicms.info/tvlogo/satturk.png" group-title="TR-YEREL",TR: SAT 7 TURK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51097
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: RUMELİ TV" tvg-logo="http://logo.multicms.info/tvlogo/rumelitv.png" group-title="TR-YEREL",TR: RUMELİ TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50999
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TON TV" tvg-logo="http://logo.multicms.info/tvlogo/tontv.png" group-title="TR-YEREL",TR: TON TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51098
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TV 6" group-title="TR-YEREL",TR: TV 6
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/222385
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV41" tvg-name="TR: TV 41" tvg-logo="http://logo.multicms.info/tvlogo/tv41.jpg" group-title="TR-YEREL",TR: TV 41
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51100
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Vizyon Türk" tvg-name="TR: VIZYON 58" tvg-logo="http://logo.multicms.info/tvlogo/vizyon58.png" group-title="TR-YEREL",TR: VIZYON 58
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51102
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: VUSLAT TV" tvg-logo="http://logo.multicms.info/tvlogo/vuslattv.jpg" group-title="TR-YEREL",TR: VUSLAT TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51103
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: YOL TV" tvg-logo="http://ssiptv.net/logos/yol.png" group-title="TR-YEREL",TR: YOL TV
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/124
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT 4K" tvg-name="TR: TRT 4K" tvg-logo="http://logo.multicms.info/logoslar/trt4k.png" group-title="TR-ULUSAL",TR: TRT 4K
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/51
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT 1" tvg-name="TR: TRT 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/trt1hd.png" group-title="TR-ULUSAL",TR: TRT 1 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337667
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT 1" tvg-name="TR: TRT 1 HD" tvg-logo="http://logo.multicms.info/logoslar/trt1hd.png" group-title="TR-ULUSAL",TR: TRT 1 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/48
-#EXTINF:0 tvg-agent="Firefox" tvg-id="ATV" tvg-name="TR: ATV FHD" tvg-logo="http://logo.multicms.info/logoslar/atv.png" group-title="TR-ULUSAL",TR: ATV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/46
-#EXTINF:0 tvg-agent="Firefox" tvg-id="ATV" tvg-name="TR: ATV HD" tvg-logo="http://logo.multicms.info/logoslar/atv.png" group-title="TR-ULUSAL",TR: ATV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/45
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV8" tvg-name="TR: TV 8 FHD" tvg-logo="http://logo.multicms.info/logoslar/tv8.png" group-title="TR-ULUSAL",TR: TV 8 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/31
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV8" tvg-name="TR: TV 8 HD" tvg-logo="http://logo.multicms.info/logoslar/tv8.png" group-title="TR-ULUSAL",TR: TV 8 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/30
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Show TV" tvg-name="TR: SHOW TV FHD" tvg-logo="http://logo.multicms.info/logoslar/showhd.png" group-title="TR-ULUSAL",TR: SHOW TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/42
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Show TV" tvg-name="TR: SHOW TV HD" tvg-logo="http://logo.multicms.info/logoslar/showhd.png" group-title="TR-ULUSAL",TR: SHOW TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/43
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Kanal D" tvg-name="TR: KANAL D FHD" tvg-logo="http://logo.multicms.info/logoslar/kanaldhd.png" group-title="TR-ULUSAL",TR: KANAL D FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/40
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Kanal D" tvg-name="TR: KANAL D HD" tvg-logo="http://logo.multicms.info/logoslar/kanaldhd.png" group-title="TR-ULUSAL",TR: KANAL D HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/39
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Star TV" tvg-name="TR: STAR TV FHD" tvg-logo="http://logo.multicms.info/logoslar/star.png" group-title="TR-ULUSAL",TR: STAR TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/37
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Star TV" tvg-name="TR: STAR TV HD" tvg-logo="http://logo.multicms.info/logoslar/star.png" group-title="TR-ULUSAL",TR: STAR TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/36
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NOW" tvg-name="TR: Now TV FHD" tvg-logo="https://logo.multicms.info/TVlogolar/NowTV.png" group-title="TR-ULUSAL",TR: Now TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/33
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NOW" tvg-name="TR: Now TV HD" tvg-logo="https://logo.multicms.info/TVlogolar/NowTV.png" group-title="TR-ULUSAL",TR: Now TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/34
-#EXTINF:0 tvg-agent="Firefox" tvg-id="BEYAZ TV" tvg-name="TR: BEYAZ TV FHD" tvg-logo="http://logo.multicms.info/logoslar/beyazhd.png" group-title="TR-ULUSAL",TR: BEYAZ TV FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/25
-#EXTINF:0 tvg-agent="Firefox" tvg-id="BEYAZ TV" tvg-name="TR: BEYAZ TV HD" tvg-logo="http://logo.multicms.info/logoslar/beyazhd.png" group-title="TR-ULUSAL",TR: BEYAZ TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/24
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TYT TURK" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tyt-turk-tr.png" group-title="TR-ULUSAL",TR: TYT TURK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/316447
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CNBC-E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CNBC-e-Logo.png/160px-CNBC-e-Logo.png" group-title="TR-ULUSAL",TR: CNBC-E
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/254694
-#EXTINF:0 tvg-agent="Firefox" tvg-id="KANAL 7" tvg-name="TR: KANAL 7 FHD" tvg-logo="http://logo.multicms.info/logoslar/kanal7.png" group-title="TR-ULUSAL",TR: KANAL 7 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/22
-#EXTINF:0 tvg-agent="Firefox" tvg-id="KANAL 7" tvg-name="TR: KANAL 7 HD" tvg-logo="http://logo.multicms.info/logoslar/kanal7.png" group-title="TR-ULUSAL",TR: KANAL 7 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50845
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Teve2" tvg-name="TR: TEVE 2 FHD" tvg-logo="http://logo.multicms.info/logoslar/teve2.png" group-title="TR-ULUSAL",TR: TEVE 2 FHD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/19
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Teve2" tvg-name="TR: TEVE 2 HD" tvg-logo="http://logo.multicms.info/logoslar/teve2.png" group-title="TR-ULUSAL",TR: TEVE 2 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/18
-#EXTINF:0 tvg-agent="Firefox" tvg-id="A2" tvg-name="TR: A2 HD" tvg-logo="http://logo.multicms.info/logoslar/a2.png" group-title="TR-ULUSAL",TR: A2 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/9
-#EXTINF:0 tvg-agent="Firefox" tvg-id="360" tvg-name="TR: 360 TV HD" tvg-logo="http://logo.multicms.info/logoslar/360.png" group-title="TR-ULUSAL",TR: 360 TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/16
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TLC" tvg-name="TR: TLC HD" tvg-logo="http://logo.multicms.info/logoslar/tlc.png" group-title="TR-ULUSAL",TR: TLC HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/14
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Flash Tv" tvg-name="TR: FLASH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Flash-tv-yeni-logo.jpg" group-title="TR-ULUSAL",TR: FLASH TV HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/99597
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT 2" tvg-name="TR: TRT 2 HD" tvg-logo="http://logo.multicms.info/logoslar/trt2.jpg" group-title="TR-ULUSAL",TR: TRT 2 HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/40980
-#EXTINF:0 tvg-agent="Firefox" tvg-name="TR: BeIN H&E" group-title="TR-ULUSAL",TR: BeIN H&E
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/337662
-#EXTINF:0 tvg-agent="Firefox" tvg-id="A Para" tvg-name="TR: APARA HD" tvg-logo="http://logo.multicms.info/logoslar/apara.jpg" group-title="TR-ULUSAL",TR: APARA HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/50841
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT TURK" tvg-name="TR: TRT TURK" tvg-logo="https://logo.multicms.info/tvlogo/trtturk.png" group-title="TR-ULUSAL",TR: TRT TURK
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/234447
-#EXTINF:0 tvg-agent="Firefox" tvg-id="SHOW Max" tvg-name="TR: SHOWMAX HD" tvg-logo="http://logo.multicms.info/tvlogo/showmax.png" group-title="TR-ULUSAL",TR: SHOWMAX HD
-http://190502.tomtv.eu:80/iso24/7s1z61y3du/31363
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 1 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195049
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 2 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195050
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 3 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195051
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 4 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195052
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 5 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195053
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 6 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195054
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 7 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195055
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 8 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195056
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 9 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195057
+#EXTINF:-1 tvg-name="|TR| MaximTV Yerli Sinema TV 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxyerlisinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Yerli Sinema TV 10 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195058
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV 1 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195944
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV 2 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195945
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV 3 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195946
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV 4 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195947
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV 5 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195948
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV  6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV  6 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195949
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV 7 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195950
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV 8 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195951
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV 9 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195952
+#EXTINF:-1 tvg-name="|TR| MaximTV Komedi TV 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxkomeditv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Komedi TV 10 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/195953
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 1" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 1
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188107
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 2" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 2
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188108
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 3" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 3
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188109
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 4" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 4
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188110
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 5" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 5
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188111
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 6" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 6
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188112
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 7" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 7
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188113
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 8" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 8
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188114
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 9" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 9
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188115
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 10" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 10
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188116
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 11" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 11
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188117
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 12" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 12
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188118
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 13" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 13
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188119
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 14" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 14
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188120
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 15" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 15
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188121
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 16" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 16
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188122
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 17" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 17
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188123
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 18" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 18
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188124
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 19" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 19
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188125
+#EXTINF:-1 tvg-name="|TR| MaximTV Film TV HD 20" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxfilmtv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Film TV HD 20
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188126
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 1 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 1 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112203
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 2 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112204
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 3 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 3 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112205
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 4 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 4 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112206
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 5 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 5 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112207
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 6 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 6 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112208
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 7 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 7 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112209
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 8 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 8 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112210
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 9 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 9 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112211
+#EXTINF:-1 tvg-name="|TR| MaximTV VIP Sinema 10 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxvipsinema.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV VIP Sinema 10 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/112212
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 1 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188040
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 2 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188041
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 3 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188042
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 4 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188043
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 5 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188044
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 6 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188045
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 7 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188046
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 8 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188047
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 9 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188048
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 10 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188049
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 11 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 11 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188050
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 12 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 12 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188051
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 13 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 13 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188052
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 14 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 14 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188053
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 15 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 15 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188054
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 16 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 16 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188055
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 17 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 17 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188056
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 18 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 18 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188057
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 19 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 19 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188058
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema TV 20 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinematv.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema TV 20 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188059
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 1 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188791
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 2 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188792
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 3 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188793
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 4 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188794
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 5 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188795
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 6 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188796
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 7 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188797
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 8 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188798
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 9 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188799
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 10 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 10 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188800
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 11 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 11 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188801
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 12 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 12 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188802
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 13 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 13 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188803
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 14 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 14 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188804
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 15 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 15 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188805
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 16 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 16 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188806
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 17 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 17 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188807
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 18 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 18 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188808
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 19 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 19 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188809
+#EXTINF:-1 tvg-name="|TR| MaximTV Sinema Play 20 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxcinemaplay.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Sinema Play 20 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/188810
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 1" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 1
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20343
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 2" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 2
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20344
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 3" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 3
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20345
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 4" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 4
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20346
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 5" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 5
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20347
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 6" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 6
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20348
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 7" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 7
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20349
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 8" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 8
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20350
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 9" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 9
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20351
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 10" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 10
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20352
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 11" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 11
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187951
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 12" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 12
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187952
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 13" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 13
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187953
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 14" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 14
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187954
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 15" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 15
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187955
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 16" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 16
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187956
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 17" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 17
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187957
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 18" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 18
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187958
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 19" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 19
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187959
+#EXTINF:-1 tvg-name="|TR| MaximTV Box Office 20" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbox.png" group-title="TR/ SINEMA KANALLARI",|TR| MaximTV Box Office 20
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/187960
+#EXTINF:-1 tvg-name="TR: Sine Max TV 1 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 1 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170441
+#EXTINF:-1 tvg-name="TR: Sine Max TV 2 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 2 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170442
+#EXTINF:-1 tvg-name="TR: Sine Max TV 3 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 3 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170443
+#EXTINF:-1 tvg-name="TR: Sine Max TV 4 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 4 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170444
+#EXTINF:-1 tvg-name="TR: Sine Max TV 5 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 5 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170445
+#EXTINF:-1 tvg-name="TR: Sine Max TV 6 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 6 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170446
+#EXTINF:-1 tvg-name="TR: Sine Max TV 7 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 7 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170447
+#EXTINF:-1 tvg-name="TR: Sine Max TV 8 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 8 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170448
+#EXTINF:-1 tvg-name="TR: Sine Max TV 9 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 9 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170449
+#EXTINF:-1 tvg-name="TR: Sine Max TV 10 HD" tvg-logo="http://play" group-title="TR/ SINEMA KANALLARI",TR: Sine Max TV 10 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170450
+#EXTINF:-1 tvg-name="TR: Cine Box TV 1 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 1 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170451
+#EXTINF:-1 tvg-name="TR: Cine Box TV 2 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 2 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170452
+#EXTINF:-1 tvg-name="TR: Cine Box TV 3 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 3 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170453
+#EXTINF:-1 tvg-name="TR: Cine Box TV 4 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 4 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170454
+#EXTINF:-1 tvg-name="TR: Cine Box TV 5 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 5 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170455
+#EXTINF:-1 tvg-name="TR: Cine Box TV 6 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 6 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170456
+#EXTINF:-1 tvg-name="TR: Cine Box TV 7 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 7 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170457
+#EXTINF:-1 tvg-name="TR: Cine Box TV 8 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 8 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170458
+#EXTINF:-1 tvg-name="TR: Cine Box TV 9 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 9 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170459
+#EXTINF:-1 tvg-name="TR: Cine Box TV 10 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 10 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170460
+#EXTINF:-1 tvg-name="TR: Cine Box TV 11 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 11 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170461
+#EXTINF:-1 tvg-name="TR: Cine Box TV 12 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 12 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170462
+#EXTINF:-1 tvg-name="TR: Cine Box TV 13 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 13 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170463
+#EXTINF:-1 tvg-name="TR: Cine Box TV 14 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 14 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170464
+#EXTINF:-1 tvg-name="TR: Cine Box TV 15 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 15 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170465
+#EXTINF:-1 tvg-name="TR: Cine Box TV 16 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 16 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170466
+#EXTINF:-1 tvg-name="TR: Cine Box TV 17 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 17 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170467
+#EXTINF:-1 tvg-name="TR: Cine Box TV 18 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 18 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170468
+#EXTINF:-1 tvg-name="TR: Cine Box TV 19 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 19 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170469
+#EXTINF:-1 tvg-name="TR: Cine Box TV 20 HD" tvg-logo="http://play.iptvcity.tk/logolar/BeonLogolar/cinebox.png" group-title="TR/ SINEMA KANALLARI",TR: Cine Box TV 20 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/170470
+#EXTINF:-1 tvg-name="|TR|: SLOW KARADENIZ FM" group-title="TR/ RADYO KANALLARI",|TR|: SLOW KARADENIZ FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194682
+#EXTINF:-1 tvg-name="|TR|: RADYO SEVIMLI" group-title="TR/ RADYO KANALLARI",|TR|: RADYO SEVIMLI
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194683
+#EXTINF:-1 tvg-name="|TR|: GEBZE FM" group-title="TR/ RADYO KANALLARI",|TR|: GEBZE FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194684
+#EXTINF:-1 tvg-name="|TR|: VITAMIN FM" group-title="TR/ RADYO KANALLARI",|TR|: VITAMIN FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194685
+#EXTINF:-1 tvg-name="|TR|: KRAL RIZELI FM" group-title="TR/ RADYO KANALLARI",|TR|: KRAL RIZELI FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194688
+#EXTINF:-1 tvg-name="|TR|: ARABESK FM" group-title="TR/ RADYO KANALLARI",|TR|: ARABESK FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194692
+#EXTINF:-1 tvg-name="|TR|: ARABESK RADYO BIZ" group-title="TR/ RADYO KANALLARI",|TR|: ARABESK RADYO BIZ
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194694
+#EXTINF:-1 tvg-name="|TR|: ASK FM ANKARA" group-title="TR/ RADYO KANALLARI",|TR|: ASK FM ANKARA
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194696
+#EXTINF:-1 tvg-name="|TR|: RADYO BESK" group-title="TR/ RADYO KANALLARI",|TR|: RADYO BESK
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194700
+#EXTINF:-1 tvg-name="|TR|: MERKEZ FM" group-title="TR/ RADYO KANALLARI",|TR|: MERKEZ FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194701
+#EXTINF:-1 tvg-name="|TR|: RADYO 37" group-title="TR/ RADYO KANALLARI",|TR|: RADYO 37
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194702
+#EXTINF:-1 tvg-name="|TR|: MAGIC FM" group-title="TR/ RADYO KANALLARI",|TR|: MAGIC FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194703
+#EXTINF:-1 tvg-name="|TR|: RADYO SIRIN" group-title="TR/ RADYO KANALLARI",|TR|: RADYO SIRIN
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194704
+#EXTINF:-1 tvg-name="|TR|: MELODI FM" group-title="TR/ RADYO KANALLARI",|TR|: MELODI FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194705
+#EXTINF:-1 tvg-name="|TR|: MAMAS FM" group-title="TR/ RADYO KANALLARI",|TR|: MAMAS FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194706
+#EXTINF:-1 tvg-name="|TR|: RADYO 38" group-title="TR/ RADYO KANALLARI",|TR|: RADYO 38
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194707
+#EXTINF:-1 tvg-name="|TR|: HARBI RADYO" group-title="TR/ RADYO KANALLARI",|TR|: HARBI RADYO
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194710
+#EXTINF:-1 tvg-name="|TR|: ROMANTIK TURK" group-title="TR/ RADYO KANALLARI",|TR|: ROMANTIK TURK
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194711
+#EXTINF:-1 tvg-name="|TR|: RADYO HABER 61" group-title="TR/ RADYO KANALLARI",|TR|: RADYO HABER 61
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194712
+#EXTINF:-1 tvg-name="|TR|: DAMLA FM" group-title="TR/ RADYO KANALLARI",|TR|: DAMLA FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194715
+#EXTINF:-1 tvg-name="|TR|: RADYOM ARABESK" group-title="TR/ RADYO KANALLARI",|TR|: RADYOM ARABESK
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194716
+#EXTINF:-1 tvg-name="|TR|: TURKU FM" group-title="TR/ RADYO KANALLARI",|TR|: TURKU FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194718
+#EXTINF:-1 tvg-name="|TR|: ADANA SUPER FM" group-title="TR/ RADYO KANALLARI",|TR|: ADANA SUPER FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194721
+#EXTINF:-1 tvg-name="|TR|: AFYON ARMONI FM" group-title="TR/ RADYO KANALLARI",|TR|: AFYON ARMONI FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194722
+#EXTINF:-1 tvg-name="|TR|: ANTAKYA RADYO RENK" group-title="TR/ RADYO KANALLARI",|TR|: ANTAKYA RADYO RENK
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194723
+#EXTINF:-1 tvg-name="|TR|: ART FM ANTALYA" group-title="TR/ RADYO KANALLARI",|TR|: ART FM ANTALYA
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194724
+#EXTINF:-1 tvg-name="|TR|: BILECIK FM" group-title="TR/ RADYO KANALLARI",|TR|: BILECIK FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194725
+#EXTINF:-1 tvg-name="|TR|: BURSA FM" group-title="TR/ RADYO KANALLARI",|TR|: BURSA FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194728
+#EXTINF:-1 tvg-name="|TR|: DOST FM ANKARA" group-title="TR/ RADYO KANALLARI",|TR|: DOST FM ANKARA
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194731
+#EXTINF:-1 tvg-name="|TR|: ELAZIG RADYO HAZAR" group-title="TR/ RADYO KANALLARI",|TR|: ELAZIG RADYO HAZAR
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194733
+#EXTINF:-1 tvg-name="|TR|: ELAZIG RADYO KENT" group-title="TR/ RADYO KANALLARI",|TR|: ELAZIG RADYO KENT
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194734
+#EXTINF:-1 tvg-name="|TR|: ELBISTAN RADYO UMUT" group-title="TR/ RADYO KANALLARI",|TR|: ELBISTAN RADYO UMUT
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194735
+#EXTINF:-1 tvg-name="|TR|: ERZINCAN FM" group-title="TR/ RADYO KANALLARI",|TR|: ERZINCAN FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194737
+#EXTINF:-1 tvg-name="|TR|: ERZINCAN INCITEK FM" group-title="TR/ RADYO KANALLARI",|TR|: ERZINCAN INCITEK FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194738
+#EXTINF:-1 tvg-name="|TR|: ERZINCAN RADYO TEK" group-title="TR/ RADYO KANALLARI",|TR|: ERZINCAN RADYO TEK
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194739
+#EXTINF:-1 tvg-name="|TR|: ERZURUM RADYO RITM" group-title="TR/ RADYO KANALLARI",|TR|: ERZURUM RADYO RITM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194740
+#EXTINF:-1 tvg-name="|TR|: GEBZE GUL FM" group-title="TR/ RADYO KANALLARI",|TR|: GEBZE GUL FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194741
+#EXTINF:-1 tvg-name="|TR|: GENC RADYO KONYA" group-title="TR/ RADYO KANALLARI",|TR|: GENC RADYO KONYA
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194742
+#EXTINF:-1 tvg-name="|TR|: GOLD FM LULEBURGAZ" group-title="TR/ RADYO KANALLARI",|TR|: GOLD FM LULEBURGAZ
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194743
+#EXTINF:-1 tvg-name="|TR|: GOZDE FM YALOVA" group-title="TR/ RADYO KANALLARI",|TR|: GOZDE FM YALOVA
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194744
+#EXTINF:-1 tvg-name="|TR|: HATAY AKDENIZ FM" group-title="TR/ RADYO KANALLARI",|TR|: HATAY AKDENIZ FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194745
+#EXTINF:-1 tvg-name="|TR|: HATAY SHOW RADYO" group-title="TR/ RADYO KANALLARI",|TR|: HATAY SHOW RADYO
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194746
+#EXTINF:-1 tvg-name="|TR|: ISRA FM" group-title="TR/ RADYO KANALLARI",|TR|: ISRA FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194748
+#EXTINF:-1 tvg-name="|TR|: IZMIR CAN RADYO" group-title="TR/ RADYO KANALLARI",|TR|: IZMIR CAN RADYO
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194749
+#EXTINF:-1 tvg-name="|TR|: KARAMURSEL FM" group-title="TR/ RADYO KANALLARI",|TR|: KARAMURSEL FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194750
+#EXTINF:-1 tvg-name="|TR|: KAY RADYO KAYSERI" group-title="TR/ RADYO KANALLARI",|TR|: KAY RADYO KAYSERI
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194751
+#EXTINF:-1 tvg-name="|TR|: KAYSERI 38 KENT FM" group-title="TR/ RADYO KANALLARI",|TR|: KAYSERI 38 KENT FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194752
+#EXTINF:-1 tvg-name="|TR|: KIRKLARELI SOYLU FM" group-title="TR/ RADYO KANALLARI",|TR|: KIRKLARELI SOYLU FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194753
+#EXTINF:-1 tvg-name="|TR|: KIZILTEPE RADYO ZERGAN" group-title="TR/ RADYO KANALLARI",|TR|: KIZILTEPE RADYO ZERGAN
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194754
+#EXTINF:-1 tvg-name="|TR|: KONYA RADYO EN" group-title="TR/ RADYO KANALLARI",|TR|: KONYA RADYO EN
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194755
+#EXTINF:-1 tvg-name="|TR|: KONYA TIRYAKI FM" group-title="TR/ RADYO KANALLARI",|TR|: KONYA TIRYAKI FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194756
+#EXTINF:-1 tvg-name="|TR|: MALATYA RADYO IMPARATOR" group-title="TR/ RADYO KANALLARI",|TR|: MALATYA RADYO IMPARATOR
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194758
+#EXTINF:-1 tvg-name="|TR|: MAMAS FM POP" group-title="TR/ RADYO KANALLARI",|TR|: MAMAS FM POP
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194759
+#EXTINF:-1 tvg-name="|TR|: MAMAS FM SANAT MUZIGI" group-title="TR/ RADYO KANALLARI",|TR|: MAMAS FM SANAT MUZIGI
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194760
+#EXTINF:-1 tvg-name="|TR|: MAMAS FM TURKU RADYO" group-title="TR/ RADYO KANALLARI",|TR|: MAMAS FM TURKU RADYO
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194761
+#EXTINF:-1 tvg-name="|TR|: NIGDE FM" group-title="TR/ RADYO KANALLARI",|TR|: NIGDE FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194763
+#EXTINF:-1 tvg-name="|TR|: OSMANIYE RADYO 80" group-title="TR/ RADYO KANALLARI",|TR|: OSMANIYE RADYO 80
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194764
+#EXTINF:-1 tvg-name="|TR|: ODEMIS RADYO REMIX" group-title="TR/ RADYO KANALLARI",|TR|: ODEMIS RADYO REMIX
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194765
+#EXTINF:-1 tvg-name="|TR|: RADYO 08" group-title="TR/ RADYO KANALLARI",|TR|: RADYO 08
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194766
+#EXTINF:-1 tvg-name="|TR|: RADYO 13" group-title="TR/ RADYO KANALLARI",|TR|: RADYO 13
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194767
+#EXTINF:-1 tvg-name="|TR|: RADYO 23" group-title="TR/ RADYO KANALLARI",|TR|: RADYO 23
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194769
+#EXTINF:-1 tvg-name="|TR|: RADYO 47" group-title="TR/ RADYO KANALLARI",|TR|: RADYO 47
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194770
+#EXTINF:-1 tvg-name="|TR|: RADYO 81" group-title="TR/ RADYO KANALLARI",|TR|: RADYO 81
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194771
+#EXTINF:-1 tvg-name="|TR|: RADYO FLASH AYDIN" group-title="TR/ RADYO KANALLARI",|TR|: RADYO FLASH AYDIN
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194773
+#EXTINF:-1 tvg-name="|TR|: RADYO IZMIR FM" group-title="TR/ RADYO KANALLARI",|TR|: RADYO IZMIR FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194774
+#EXTINF:-1 tvg-name="|TR|: RADYO RUMELIM" group-title="TR/ RADYO KANALLARI",|TR|: RADYO RUMELIM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194775
+#EXTINF:-1 tvg-name="|TR|: RADYO ULKU" group-title="TR/ RADYO KANALLARI",|TR|: RADYO ULKU
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194777
+#EXTINF:-1 tvg-name="|TR|: RADYO YUKSEL" group-title="TR/ RADYO KANALLARI",|TR|: RADYO YUKSEL
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194778
+#EXTINF:-1 tvg-name="|TR|: TEKIRDAG RADYO CAN" group-title="TR/ RADYO KANALLARI",|TR|: TEKIRDAG RADYO CAN
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194779
+#EXTINF:-1 tvg-name="|TR|: TEKIRDAG RADYO HABER" group-title="TR/ RADYO KANALLARI",|TR|: TEKIRDAG RADYO HABER
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194780
+#EXTINF:-1 tvg-name="|TR|: TEKIRDAG YILDIZ FM" group-title="TR/ RADYO KANALLARI",|TR|: TEKIRDAG YILDIZ FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194781
+#EXTINF:-1 tvg-name="|TR|: TRABZON KUZEY RADYO" group-title="TR/ RADYO KANALLARI",|TR|: TRABZON KUZEY RADYO
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194783
+#EXTINF:-1 tvg-name="|TR|: TRAKYA FM" group-title="TR/ RADYO KANALLARI",|TR|: TRAKYA FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194784
+#EXTINF:-1 tvg-name="|TR|: TUNCELI RADYO MUNZUR" group-title="TR/ RADYO KANALLARI",|TR|: TUNCELI RADYO MUNZUR
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194785
+#EXTINF:-1 tvg-name="|TR|: ULUSAL RADYO" group-title="TR/ RADYO KANALLARI",|TR|: ULUSAL RADYO
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194786
+#EXTINF:-1 tvg-name="|TR|: UMUT FM" group-title="TR/ RADYO KANALLARI",|TR|: UMUT FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194787
+#EXTINF:-1 tvg-name="|TR|: ULKU FM" group-title="TR/ RADYO KANALLARI",|TR|: ULKU FM
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194788
+#EXTINF:-1 tvg-name="|TR|: VUSLAT RADYO" group-title="TR/ RADYO KANALLARI",|TR|: VUSLAT RADYO
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/194789
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="|TR| TRT Muzik HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/trt_muzik.png" group-title="TR/ MUZIK KANALLARI",|TR| TRT Muzik HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/61298
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Kral TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/kral_tr_tv.png" group-title="TR/ MUZIK KANALLARI",|TR| Kral TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101123
+#EXTINF:-1 tvg-name="|TR| Kral Pop HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/kral_tr_pop_tv.png" group-title="TR/ MUZIK KANALLARI",|TR| Kral Pop HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101124
+#EXTINF:-1 tvg-name="|TR| Tatlıses TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/mesaj.png" group-title="TR/ MUZIK KANALLARI",|TR| Tatlıses TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101125
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Power TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/power_tr_tv.png" group-title="TR/ MUZIK KANALLARI",|TR| Power TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101126
+#EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="|TR| Dream Türk HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/dream_tv_tr.png" group-title="TR/ MUZIK KANALLARI",|TR| Dream Türk HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101885
+#EXTINF:-1 tvg-name="|TR| Number One Türk HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/number1_tr_tv_turk.png" group-title="TR/ MUZIK KANALLARI",|TR| Number One Türk HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101887
+#EXTINF:-1 tvg-name="|TR| Number One HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/number1_tr_tv.png" group-title="TR/ MUZIK KANALLARI",|TR| Number One HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101888
+#EXTINF:-1 tvg-name="|TR| MAX Müzik Tv 1 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müzik Tv 1 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189593
+#EXTINF:-1 tvg-name="|TR| MAX Müzik Tv 2 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müzik Tv 2 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189585
+#EXTINF:-1 tvg-name="|TR| MAX Müzik Tv 3 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müzik Tv 3 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189586
+#EXTINF:-1 tvg-name="|TR| MAX Müzik Tv 4 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müzik Tv 4 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189587
+#EXTINF:-1 tvg-name="|TR| MAX Müzik Tv 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müzik Tv 5 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189588
+#EXTINF:-1 tvg-name="|TR| MAX Müzik Tv 6 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müzik Tv 6 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189589
+#EXTINF:-1 tvg-name="|TR| MAX Müzik Tv 7 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müzik Tv 7 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189590
+#EXTINF:-1 tvg-name="|TR| MAX Müzik Tv 8 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müzik Tv 8 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189591
+#EXTINF:-1 tvg-name="|TR| MAX Müzik Tv 9 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxmuziktv.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müzik Tv 9 HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189592
+#EXTINF:-1 tvg-name="|TR| MAX Halil Sezai Müzik TV" tvg-logo="https://www.bursadabuhafta.com/assets/images/etkinlikler/etkinlik-halil-sezai-konser-2023-455.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Halil Sezai Müzik TV
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/262817
+#EXTINF:-1 tvg-name="|TR| MAX Ferdi Tayfur Müzik TV" tvg-logo="https://cdn-profiles.tunein.com/p1466925/images/logog.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Ferdi Tayfur Müzik TV
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/191099
+#EXTINF:-1 tvg-name="|TR| MAX Müslüm Gürses Müzik TV" tvg-logo="https://cdn-profiles.tunein.com/p1466925/images/logog.png" group-title="TR/ MUZIK KANALLARI",|TR| MAX Müslüm Gürses Müzik TV
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/191100
+#EXTINF:-1 tvg-name="[TR] Dream Turk" tvg-logo="https://i.hizliresim.com/1rn9cxi.png" group-title="TR/ MUZIK KANALLARI",[TR] Dream Turk
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/446158
+#EXTINF:-1 tvg-name="[TR] Power Turk" tvg-logo="https://i.hizliresim.com/1rn9cxi.png" group-title="TR/ MUZIK KANALLARI",[TR] Power Turk
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/446160
+#EXTINF:-1 tvg-id="24 TV" tvg-name="[TR] Kral Pop" tvg-logo="https://i.hizliresim.com/1rn9cxi.png" group-title="TR/ MUZIK KANALLARI",[TR] Kral Pop
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/446162
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="|TR| TRT Çocuk HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_cocuk.png" group-title="TR/ COCUK KANALLARI",|TR| TRT Çocuk HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/48856
+#EXTINF:-1 tvg-name="|TR| MaximTV Niloya HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxniloyatv.png" group-title="TR/ COCUK KANALLARI",|TR| MaximTV Niloya HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/113702
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Minika Go HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Minika_go_old.png" group-title="TR/ COCUK KANALLARI",|TR| Minika Go HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6244
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Minika Çocuk HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" group-title="TR/ COCUK KANALLARI",|TR| Minika Çocuk HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6247
+#EXTINF:-1 tvg-name="|TR| MaximTV Doru TV" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxdorutv.png" group-title="TR/ COCUK KANALLARI",|TR| MaximTV Doru TV
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/196539
+#EXTINF:-1 tvg-name="|TR| Pija Maskeliler TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/pijamaskeliler.png" group-title="TR/ COCUK KANALLARI",|TR| Pija Maskeliler TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/35592
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Disney Channel HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/disnepchannel.png" group-title="TR/ COCUK KANALLARI",|TR| Disney Channel HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20416
+#EXTINF:-1 tvg-name="|TR| Nickelodeon HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxniloyatv.png" group-title="TR/ COCUK KANALLARI",|TR| Nickelodeon HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6242
+#EXTINF:-1 tvg-name="|TR| Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f8/Disney_Junior_logosu.png" group-title="TR/ COCUK KANALLARI",|TR| Disney Junior HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6236
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cartoon_Network_2010_logo_variant.png/1200px-Cartoon_Network_2010_logo_variant.png" group-title="TR/ COCUK KANALLARI",|TR| Cartoon Network HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6234
+#EXTINF:-1 tvg-name="|TR| Baby TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxbabytv.png" group-title="TR/ COCUK KANALLARI",|TR| Baby TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6239
+#EXTINF:-1 tvg-name="|TR| Maşa İle Koca Ayı HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/masakocaayi.png" group-title="TR/ COCUK KANALLARI",|TR| Maşa İle Koca Ayı HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6238
+#EXTINF:-1 tvg-name="|TR| Caillou TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxcailloutv.png" group-title="TR/ COCUK KANALLARI",|TR| Caillou TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/28933
+#EXTINF:-1 tvg-name="|TR| Kids Max TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/kidsturk.png" group-title="TR/ COCUK KANALLARI",|TR| Kids Max TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6249
+#EXTINF:-1 tvg-name="|TR| Şirinler TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxsirinlertv.png" group-title="TR/ COCUK KANALLARI",|TR| Şirinler TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6245
+#EXTINF:-1 tvg-name="|TR| Pepe TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxpepetv.png" group-title="TR/ COCUK KANALLARI",|TR| Pepe TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6241
+#EXTINF:-1 tvg-name="|TR| Pembe Panter TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxpembepanter.png" group-title="TR/ COCUK KANALLARI",|TR| Pembe Panter TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6235
+#EXTINF:-1 tvg-name="|TR| Boomerang TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="TR/ COCUK KANALLARI",|TR| Boomerang TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6243
+#EXTINF:-1 tvg-name="|TR| Tom & Jerry TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxtomjerry.png" group-title="TR/ COCUK KANALLARI",|TR| Tom & Jerry TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6240
+#EXTINF:-1 tvg-name="|TR| MaximTV Nick JR HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxnickjr.png" group-title="TR/ COCUK KANALLARI",|TR| MaximTV Nick JR HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/113705
+#EXTINF:-1 tvg-name="|TR| A Para" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_para.png" group-title="TR/ BORSA KANALLARI",|TR| A Para
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6206
+#EXTINF:-1 tvg-name="|TR| Bloomberg HT" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bloombeerg_ht.png" group-title="TR/ BORSA KANALLARI",|TR| Bloomberg HT
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6214
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| National Geographic HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/national_geo.png" group-title="TR/ BELGESEL KANALLARI",|TR| National Geographic HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6286
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| National Geographic Wild HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/national_geo_wild.png" group-title="TR/ BELGESEL KANALLARI",|TR| National Geographic Wild HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6287
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Discovery Channel HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/discovery_channel.png" group-title="TR/ BELGESEL KANALLARI",|TR| Discovery Channel HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6289
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Discovery IDX HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/discovery_idx.png" group-title="TR/ BELGESEL KANALLARI",|TR| Discovery IDX HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6290
+#EXTINF:-1 tvg-name="|TR| Dmax TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/dmax.png" group-title="TR/ BELGESEL KANALLARI",|TR| Dmax TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/535985
+#EXTINF:-1 tvg-name="|TR| Hazine TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/relaxhazinetv.png" group-title="TR/ BELGESEL KANALLARI",|TR| Hazine TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/451019
+#EXTINF:-1 tvg-name="|TR| Love TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/maxlovetv.png" group-title="TR/ BELGESEL KANALLARI",|TR| Love TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/192797
+#EXTINF:-1 tvg-name="|TR| Balık Tv HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/maxbaliktv.png" group-title="TR/ BELGESEL KANALLARI",|TR| Balık Tv HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/189003
+#EXTINF:-1 tvg-name="|TR| MaximTV Belgesel TV HD" tvg-logo="https://apkx.xyz/relaxbelgeseltv.png" group-title="TR/ BELGESEL KANALLARI",|TR| MaximTV Belgesel TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/451573
+#EXTINF:-1 tvg-name="|TR| MaximTV Nature TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxnature.png" group-title="TR/ BELGESEL KANALLARI",|TR| MaximTV Nature TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/113484
+#EXTINF:-1 tvg-name="|TR| MaximTV Tadilat TV HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/mtvLive.png" group-title="TR/ BELGESEL KANALLARI",|TR| MaximTV Tadilat TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/47476
+#EXTINF:-1 tvg-name="|TR| Doğadan TV FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxdogadan.png" group-title="TR/ BELGESEL KANALLARI",|TR| Doğadan TV FHD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/114704
+#EXTINF:-1 tvg-name="|TR| Define TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/definetv.png" group-title="TR/ BELGESEL KANALLARI",|TR| Define TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/47809
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Da Vinci HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/da_vici_learning.png" group-title="TR/ BELGESEL KANALLARI",|TR| Da Vinci HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6293
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="|TR| Bbc Earth HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bbc_earth.png" group-title="TR/ BELGESEL KANALLARI",|TR| Bbc Earth HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6294
+#EXTINF:-1 tvg-name="|TR| Animaux HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/animaux.png" group-title="TR/ BELGESEL KANALLARI",|TR| Animaux HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6297
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="|TR| Bein IZ HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/beiniz.png" group-title="TR/ BELGESEL KANALLARI",|TR| Bein IZ HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/105919
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="|TR| beIN Gurme HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_gurne.png" group-title="TR/ BELGESEL KANALLARI",|TR| beIN Gurme HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6302
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| 24 Kitchen TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/24kitchen.png" group-title="TR/ BELGESEL KANALLARI",|TR| 24 Kitchen TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20508
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| History HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/history_channel.png" group-title="TR/ BELGESEL KANALLARI",|TR| History HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/12822
+#EXTINF:-1 tvg-name="|TR| Viasat History HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/Viasat_History-2014.png" group-title="TR/ BELGESEL KANALLARI",|TR| Viasat History HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/110174
+#EXTINF:-1 tvg-name="|TR| Viasat Explore HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/viasat_explore.png" group-title="TR/ BELGESEL KANALLARI",|TR| Viasat Explore HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/113283
+#EXTINF:-1 tvg-name="|TR| Outdoor HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/Outdoor.png" group-title="TR/ BELGESEL KANALLARI",|TR| Outdoor HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/35997
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Docubox HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="TR/ BELGESEL KANALLARI",|TR| Docubox HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/35998
+#EXTINF:-1 tvg-name="|TR| Love Nature HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/love_nature.png" group-title="TR/ BELGESEL KANALLARI",|TR| Love Nature HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/22098
+#EXTINF:-1 tvg-name="|TR| RTG International HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/rtginternational.png" group-title="TR/ BELGESEL KANALLARI",|TR| RTG International HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/23924
+#EXTINF:-1 tvg-name="|TR| TGRT Belgesel HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tgrt_belgesel.png" group-title="TR/ BELGESEL KANALLARI",|TR| TGRT Belgesel HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6284
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="|TR| TRT Belgesel HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_belgesel.png" group-title="TR/ BELGESEL KANALLARI",|TR| TRT Belgesel HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/13286
+#EXTINF:-1 tvg-name="|TR| TRT TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tvlogo/trt_belgesel.png" group-title="TR/ BELGESEL KANALLARI",|TR| TRT TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/96754
+#EXTINF:-1 tvg-name="|TR| Life After TV HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/maxnational.png" group-title="TR/ BELGESEL KANALLARI",|TR| Life After TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/96755
+#EXTINF:-1 tvg-name="|TR| Sea Nat TV HD" group-title="TR/ BELGESEL KANALLARI",|TR| Sea Nat TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/96756
+#EXTINF:-1 tvg-name="|TR| Tekno Belgesel TV HD" tvg-logo="https://w7.pngwing.com/pngs/162/242/png-transparent-documentary-film-music-real-estate-property-manager-logo-distracted-driving-logo-signage-film.png" group-title="TR/ BELGESEL KANALLARI",|TR| Tekno Belgesel TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/97247
+#EXTINF:-1 tvg-name="|TR| Habitat TV HD" tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/01/1610820453251-screenshot-5.png" group-title="TR/ BELGESEL KANALLARI",|TR| Habitat TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/103303
+#EXTINF:-1 tvg-name="EU: Pluto TV Mistios (720p)" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="TR/ BELGESEL KANALLARI",EU: Pluto TV Mistios (720p)
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/110175
+#EXTINF:-1 tvg-name="EU: Pluto TV Natureza (720p)" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="TR/ BELGESEL KANALLARI",EU: Pluto TV Natureza (720p)
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/110178
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="|TR| Trt Haber" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_haber.png" group-title="TR/ HABER KANALLARI",|TR| Trt Haber
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6208
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="|TR| A Haber HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/a_haber.png" group-title="TR/ HABER KANALLARI",|TR| A Haber HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20768
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="|TR| Tgrt Haber" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/tgrt_haber.png" group-title="TR/ HABER KANALLARI",|TR| Tgrt Haber
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6209
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Cnn Türk HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/cnn_turk.png" group-title="TR/ HABER KANALLARI",|TR| Cnn Türk HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6210
+#EXTINF:-1 tvg-id="Haberturk.tr" tvg-name="|TR| Haber Türk" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haberturk.png" group-title="TR/ HABER KANALLARI",|TR| Haber Türk
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6212
+#EXTINF:-1 tvg-name="|TR| Sözcü SZC Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="TR/ HABER KANALLARI",|TR| Sözcü SZC Tv
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/196229
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="|TR| Haber Global HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/haber_global.png" group-title="TR/ HABER KANALLARI",|TR| Haber Global HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/6219
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="|TR| Ntv Haber HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/ntv_tr.png" group-title="TR/ HABER KANALLARI",|TR| Ntv Haber HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101114
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="|TR| 24 TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/24_tv.png" group-title="TR/ HABER KANALLARI",|TR| 24 TV
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20748
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="|TR| Halk TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/halk_tv.png" group-title="TR/ HABER KANALLARI",|TR| Halk TV
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20758
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| Krt TV" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/krt_tr.png" group-title="TR/ HABER KANALLARI",|TR| Krt TV
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101118
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="|TR| Tele 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkey/tele_1_tr.png" group-title="TR/ HABER KANALLARI",|TR| Tele 1
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/101115
+#EXTINF:-1 tvg-name="|TR| Az Tv Haber [Azerbaycan]" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/aztv.png" group-title="TR/ HABER KANALLARI",|TR| Az Tv Haber [Azerbaycan]
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/197037
+#EXTINF:-1 tvg-name="|TR| Bengü Türk" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/benguturk.png" group-title="TR/ HABER KANALLARI",|TR| Bengü Türk
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/20811
+#EXTINF:-1 tvg-name="EU: CNA NEWS" tvg-logo="https://www.mediacorp.sg/image/8918392/1x1/250/250/91bcfbfce7daa77afce04df655da6732/Bg/channel-news-asia--p-.png" group-title="TR/ HABER KANALLARI",EU: CNA NEWS
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/103266
+#EXTINF:-1 tvg-name="|TR| Ekol TV HD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/thumbnail_EKOL_TV_LOGO_PNG.png" group-title="TR/ HABER KANALLARI",|TR| Ekol TV HD
+http://smusxsmuasx95cfx45c98f764kaummacoxga.maximsrv.shop:8080/serhat37/rUs8JDg/457710
