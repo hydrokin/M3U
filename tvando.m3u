@@ -25,6 +25,8 @@ http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/269805
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337958
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: PLUS 2 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 2 HD
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337959
+#EXTINF:0 tvg-agent="Firefox" tvg-name="TR: PLUS 3 HD" tvg-logo="http://logo.multicms.info/logoslar/beinsports1.png" group-title="TR-SPOR",TR: PLUS 3 HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/338772
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Bein Xtra" tvg-logo="https://logo.multicms.info/tvlogo/BeinsportsXtra.jpg" group-title="TR-SPOR",TR: Bein Xtra
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/256065
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BEIN SPORTS 2 SD" tvg-logo="http://logo.multicms.info/logoslar/beinsports2.png" group-title="TR-SPOR",TR: BEIN SPORTS 2 SD
@@ -183,6 +185,72 @@ http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337171
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/337170
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BI TV" group-title="TR-SPOR",TR: BI TV
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/314376
+#EXTINF:0 tvg-agent="Firefox" tvg-id="A Haber" tvg-name="TR: A HABER FHD" tvg-logo="http://logo.multicms.info/tvlogo/ahaberhd.png" group-title="TR-HABER",TR: A HABER FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/139
+#EXTINF:0 tvg-agent="Firefox" tvg-id="A Haber" tvg-name="TR: A HABER HD" tvg-logo="http://logo.multicms.info/tvlogo/ahaberhd.png" group-title="TR-HABER",TR: A HABER HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/140
+#EXTINF:0 tvg-agent="Firefox" tvg-id="CNN TÜRK" tvg-name="TR: CNN TURK FHD" tvg-logo="http://logo.multicms.info/tvlogo/cnnturk.png" group-title="TR-HABER",TR: CNN TURK FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/149
+#EXTINF:0 tvg-agent="Firefox" tvg-id="CNN TÜRK" tvg-name="TR: CNN TURK HD" tvg-logo="http://logo.multicms.info/tvlogo/cnnturk.png" group-title="TR-HABER",TR: CNN TURK HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/150
+#EXTINF:0 tvg-agent="Firefox" tvg-id="HABERTURK" tvg-name="TR: HABER TURK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg" group-title="TR-HABER",TR: HABER TURK FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/147
+#EXTINF:0 tvg-agent="Firefox" tvg-id="HABERTURK" tvg-name="TR: HABER TURK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Habert%C3%BCrktv.jpg" group-title="TR-HABER",TR: HABER TURK HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/148
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NTV" tvg-name="TR: NTV FHD" tvg-logo="http://logo.multicms.info/tvlogo/ntvhd.png" group-title="TR-HABER",TR: NTV FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/151
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NTV" tvg-name="TR: NTV HD" tvg-logo="http://logo.multicms.info/tvlogo/ntvhd.png" group-title="TR-HABER",TR: NTV HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/152
+#EXTINF:0 tvg-agent="Firefox" tvg-id="HABER GLOBAL" tvg-name="TR: HABER GLOBAL FHD" tvg-logo="http://logo.multicms.info/logoslar/haberglobal.png" group-title="TR-HABER",TR: HABER GLOBAL FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/40495
+#EXTINF:0 tvg-agent="Firefox" tvg-id="HABER GLOBAL" tvg-name="TR: HABER GLOBAL HD" tvg-logo="http://logo.multicms.info/logoslar/haberglobal.png" group-title="TR-HABER",TR: HABER GLOBAL HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232359
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Haber" tvg-name="TR: TRT HABER FHD" tvg-logo="http://logo.multicms.info/tvlogo/trthaberhd.png" group-title="TR-HABER",TR: TRT HABER FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/145
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Haber" tvg-name="TR: TRT HABER HD" tvg-logo="http://logo.multicms.info/tvlogo/trthaberhd.png" group-title="TR-HABER",TR: TRT HABER HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/146
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Ülke TV" tvg-name="TR: ULKE TV FHD" tvg-logo="http://logo.multicms.info/tvlogo/ulkehd.png" group-title="TR-HABER",TR: ULKE TV FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/132
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Ülke TV" tvg-name="TR: ULKE TV HD" tvg-logo="http://logo.multicms.info/tvlogo/ulkehd.png" group-title="TR-HABER",TR: ULKE TV HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/133
+#EXTINF:0 tvg-agent="Firefox" tvg-id="KRT TV" tvg-name="TR: KRT TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20210903112243%21KRT_TV_logosu.png" group-title="TR-HABER",TR: KRT TV FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/15281
+#EXTINF:0 tvg-agent="Firefox" tvg-id="KRT TV" tvg-name="TR: KRT TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/e/e8/20210903112243%21KRT_TV_logosu.png" group-title="TR-HABER",TR: KRT TV HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232358
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Halk TV" tvg-name="TR: HALK TV FHD" tvg-logo="http://logo.multicms.info/logoslar/halk.png" group-title="TR-HABER",TR: HALK TV FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/5
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Halk TV" tvg-name="TR: HALK TV HD" tvg-logo="http://logo.multicms.info/logoslar/halk.png" group-title="TR-HABER",TR: HALK TV HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232357
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 100" tvg-name="TR: TV 100 FHD" tvg-logo="http://logo.multicms.info/tvlogo/tv100.png" group-title="TR-HABER",TR: TV 100 FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50939
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TV 100" tvg-name="TR: TV 100 HD" tvg-logo="http://logo.multicms.info/tvlogo/tv100.png" group-title="TR-HABER",TR: TV 100 HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232356
+#EXTINF:0 tvg-agent="Firefox" tvg-id="SÖZCÜ TV" tvg-name="TR: SZC TV FHD" tvg-logo="https://i.hizliresim.com/ljzg5ez.png" group-title="TR-HABER",TR: SZC TV FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/144
+#EXTINF:0 tvg-agent="Firefox" tvg-id="SÖZCÜ TV" tvg-name="TR: SZC TV HD" tvg-logo="https://i.hizliresim.com/ljzg5ez.png" group-title="TR-HABER",TR: SZC TV HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232355
+#EXTINF:0 tvg-agent="Firefox" tvg-id="KANAL 24" tvg-name="TR: 24 TV FHD" tvg-logo="http://logo.multicms.info/logoslar/kanal24.png" group-title="TR-HABER",TR: 24 TV FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/142
+#EXTINF:0 tvg-agent="Firefox" tvg-id="KANAL 24" tvg-name="TR: 24 TV HD" tvg-logo="http://logo.multicms.info/logoslar/kanal24.png" group-title="TR-HABER",TR: 24 TV HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232354
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TVNET" tvg-name="TR: TVNET FHD" tvg-logo="http://logo.multicms.info/tvlogo/tvnethd.png" group-title="TR-HABER",TR: TVNET FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/54676
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EKOL TV" tvg-logo="https://logo.multicms.info/TVlogolar/ekoltv.jpg" group-title="TR-HABER",TR: EKOL TV
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/255109
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TVNET" tvg-name="TR: TVNET HD" tvg-logo="http://logo.multicms.info/tvlogo/tvnethd.png" group-title="TR-HABER",TR: TVNET HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232353
+#EXTINF:0 tvg-agent="Firefox" tvg-id="BLOOMBERG" tvg-name="TR: BLOOMBERGHT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png" group-title="TR-HABER",TR: BLOOMBERGHT FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50842
+#EXTINF:0 tvg-agent="Firefox" tvg-id="BLOOMBERG" tvg-name="TR: BLOOMBERGHT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/b/b0/20110131193506%21Bloomberg_HT_logosu.png" group-title="TR-HABER",TR: BLOOMBERGHT HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/137
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TGRT HABER" tvg-name="TR: TGRT HABER FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="TR-HABER",TR: TGRT HABER FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/232352
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TGRT HABER" tvg-name="TR: TGRT HABER HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" group-title="TR-HABER",TR: TGRT HABER HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222870
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TELE 1" tvg-name="TR: TELE 1 HD" tvg-logo="http://logo.multicms.info/tvlogo/tele1.png" group-title="TR-HABER",TR: TELE 1 HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/121
+#EXTINF:0 tvg-agent="Firefox" tvg-id="ULUSAL KANAL" tvg-name="TR: ULUSAL KANAL" tvg-logo="http://logo.multicms.info/tvlogo/ulusal.png" group-title="TR-HABER",TR: ULUSAL KANAL
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/6
 #EXTINF:0 tvg-agent="Firefox" tvg-id="TRT 4K" tvg-name="TR: TRT 4K" tvg-logo="http://logo.multicms.info/logoslar/trt4k.png" group-title="TR-ULUSAL",TR: TRT 4K
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51
 #EXTINF:0 tvg-agent="Firefox" tvg-id="TRT 1" tvg-name="TR: TRT 1 FHD" tvg-logo="http://logo.multicms.info/logoslar/trt1hd.png" group-title="TR-ULUSAL",TR: TRT 1 FHD
@@ -247,135 +315,3 @@ http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50841
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/234447
 #EXTINF:0 tvg-agent="Firefox" tvg-id="SHOW Max" tvg-name="TR: SHOWMAX HD" tvg-logo="http://logo.multicms.info/tvlogo/showmax.png" group-title="TR-ULUSAL",TR: SHOWMAX HD
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/31363
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BURSA LINE TV" group-title="TR-YEREL",TR: BURSA LINE TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/264445
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TRT AVAZ" group-title="TR-YEREL",TR: TRT AVAZ
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/234448
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ADA TV" group-title="TR-YEREL",TR: ADA TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222389
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: AKIT TV" tvg-logo="http://ssiptv.net/logos/akit.png" group-title="TR-YEREL",TR: AKIT TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/117
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: AKSU TV" tvg-logo="http://logo.multicms.info/tvlogo/aksu.png" group-title="TR-YEREL",TR: AKSU TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51071
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ALANYA DIM TV" group-title="TR-YEREL",TR: ALANYA DIM TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222384
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ALANYA ATV" group-title="TR-YEREL",TR: ALANYA ATV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222378
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ALANYA POSTA TV" group-title="TR-YEREL",TR: ALANYA POSTA TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222377
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: IBB TV" group-title="TR-YEREL",TR: IBB TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222390
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ARTI" tvg-logo="http://ssiptv.net/logos/arti.png" group-title="TR-YEREL",TR: ARTI
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/123
-#EXTINF:0 tvg-agent="Firefox" tvg-id="AS TV" tvg-name="TR: ASTV" tvg-logo="http://logo.multicms.info/tvlogo/astv.png" group-title="TR-YEREL",TR: ASTV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51070
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TV 52" group-title="TR-YEREL",TR: TV 52
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222397
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KAY TV KAYSERI" group-title="TR-YEREL",TR: KAY TV KAYSERI
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222395
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: HABER 61" group-title="TR-YEREL",TR: HABER 61
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222394
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: GUNEY TV" group-title="TR-YEREL",TR: GUNEY TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222393
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: GURBET24 TV" group-title="TR-YEREL",TR: GURBET24 TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222392
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: FORTUNA TV" group-title="TR-YEREL",TR: FORTUNA TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222391
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: VANGOLU TV" group-title="TR-YEREL",TR: VANGOLU TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222387
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: URFANATIK TV" group-title="TR-YEREL",TR: URFANATIK TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222386
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MERSIN ICEL TV" group-title="TR-YEREL",TR: MERSIN ICEL TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222383
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: GAZIANTEP OLAY TV" group-title="TR-YEREL",TR: GAZIANTEP OLAY TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222382
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EDESSA TV" tvg-logo="https://static.daktilo.com/sites/1451/uploads/2023/09/01/large/mobil.png" group-title="TR-YEREL",TR: EDESSA TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/103454
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Bengu Turk" tvg-logo="http://logo.multicms.info/tvlogo/benguturk.png" group-title="TR-YEREL",TR: Bengu Turk
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/61595
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: Anadolu Dernek" tvg-logo="http://logo.multicms.info/tvlogo/ANADOLU-DERNEK.jpg" group-title="TR-YEREL",TR: Anadolu Dernek
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/62999
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Köy TV" tvg-name="TR: SANCAK TV" group-title="TR-YEREL",TR: SANCAK TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/63251
-#EXTINF:0 tvg-agent="Firefox" tvg-id="MELTEM TV" tvg-name="TR: Meltem TV" tvg-logo="http://logo.multicms.info/tvlogo/meltem.png" group-title="TR-YEREL",TR: Meltem TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/63250
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BLT TURK" tvg-logo="http://logo.multicms.info/tvlogo/bltturk.jpg" group-title="TR-YEREL",TR: BLT TURK
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51072
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BR TV" tvg-logo="http://logo.multicms.info/tvlogo/brtv.png" group-title="TR-YEREL",TR: BR TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51073
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: BRT 1" tvg-logo="http://logo.multicms.info/tvlogo/brt1.png" group-title="TR-YEREL",TR: BRT 1
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50949
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: CAY TV" tvg-logo="http://logo.multicms.info/tvlogo/cay.png" group-title="TR-YEREL",TR: CAY TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50959
-#EXTINF:0 tvg-agent="Firefox" tvg-id="CEM TV" tvg-name="TR: CEM TV FHD" tvg-logo="http://ssiptv.net/logos/cem.png" group-title="TR-YEREL",TR: CEM TV FHD
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/126
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: DEHA TV" tvg-logo="http://logo.multicms.info/tvlogo/deha.png" group-title="TR-YEREL",TR: DEHA TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51075
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: DENIZPOSTASI TV" tvg-logo="http://logo.multicms.info/tvlogo/denizpostasi.jpg" group-title="TR-YEREL",TR: DENIZPOSTASI TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51076
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: DIM TV" tvg-logo="http://logo.multicms.info/tvlogo/dimtv.jpg" group-title="TR-YEREL",TR: DIM TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51077
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EGE TV" tvg-logo="http://logo.multicms.info/tvlogo/ege.png" group-title="TR-YEREL",TR: EGE TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50984
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: EKO TURK" tvg-logo="http://logo.multicms.info/logoslar/ekoturk.png" group-title="TR-YEREL",TR: EKO TURK
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/31415
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ER TV" tvg-logo="http://logo.multicms.info/tvlogo/ertv_tr.png" group-title="TR-YEREL",TR: ER TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51078
-#EXTINF:0 tvg-agent="Firefox" tvg-id="ERT Şah" tvg-name="TR: ERT SAH TV" tvg-logo="http://logo.multicms.info/tvlogo/ert_sah_tr_tv.png" group-title="TR-YEREL",TR: ERT SAH TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51079
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: FRT TV" tvg-logo="http://logo.multicms.info/tvlogo/frttv.jpg" group-title="TR-YEREL",TR: FRT TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51080
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: GRT TV" tvg-logo="http://logo.multicms.info/tvlogo/grttv.jpg" group-title="TR-YEREL",TR: GRT TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51082
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: ILKE TV" tvg-logo="http://logo.multicms.info/tvlogo/ilketv.jpg" group-title="TR-YEREL",TR: ILKE TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51083
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: 38 KENT TV" tvg-logo="http://logo.multicms.info/tvlogo/38kenttv.jpg" group-title="TR-YEREL",TR: 38 KENT TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51092
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL ANTALYA" group-title="TR-YEREL",TR: KANAL ANTALYA
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222388
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Kanal Fırat" tvg-name="TR: KANAL FIRAT" tvg-logo="http://logo.multicms.info/tvlogo/kanalfirat.jpg" group-title="TR-YEREL",TR: KANAL FIRAT
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51088
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 3" tvg-logo="http://logo.multicms.info/tvlogo/kanal3.jpg" group-title="TR-YEREL",TR: KANAL 3
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51087
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 15" tvg-logo="http://logo.multicms.info/tvlogo/kanal15.jpg" group-title="TR-YEREL",TR: KANAL 15
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51084
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 23" tvg-logo="http://logo.multicms.info/tvlogo/kanal23.jpg" group-title="TR-YEREL",TR: KANAL 23
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51085
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 26" tvg-logo="http://logo.multicms.info/tvlogo/kanal26.jpg" group-title="TR-YEREL",TR: KANAL 26
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51086
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL 33" group-title="TR-YEREL",TR: KANAL 33
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222376
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL Z" tvg-logo="http://logo.multicms.info/tvlogo/KANALZ.jpg" group-title="TR-YEREL",TR: KANAL Z
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51089
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KAY TV" tvg-logo="http://logo.multicms.info/tvlogo/KAYTV.jpg" group-title="TR-YEREL",TR: KAY TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51091
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KANAL URFA" tvg-logo="http://kanalurfa.com/wp-content/uploads/2020/04/ZITLOGO.png" group-title="TR-YEREL",TR: KANAL URFA
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/103452
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: KIBRIS GENC TV" tvg-logo="http://logo.multicms.info/tvlogo/genctv.png" group-title="TR-YEREL",TR: KIBRIS GENC TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50952
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: LIFE TV" tvg-logo="http://logo.multicms.info/tvlogo/lifetv.jpg" group-title="TR-YEREL",TR: LIFE TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51093
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAVI KARADENIZ" tvg-logo="http://logo.multicms.info/tvlogo/mavikaradeniz.png" group-title="TR-YEREL",TR: MAVI KARADENIZ
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50996
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MERCAN TV" tvg-logo="http://logo.multicms.info/tvlogo/mercan.png" group-title="TR-YEREL",TR: MERCAN TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51094
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: OLAY TURK" tvg-logo="http://logo.multicms.info/tvlogo/olayturk.jpg" group-title="TR-YEREL",TR: OLAY TURK
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51096
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: OLAY TV" tvg-logo="http://logo.multicms.info/tvlogo/olay.png" group-title="TR-YEREL",TR: OLAY TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51081
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Sat 7 Türk" tvg-name="TR: SAT 7 TURK" tvg-logo="http://logo.multicms.info/tvlogo/satturk.png" group-title="TR-YEREL",TR: SAT 7 TURK
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51097
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: RUMELİ TV" tvg-logo="http://logo.multicms.info/tvlogo/rumelitv.png" group-title="TR-YEREL",TR: RUMELİ TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50999
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TON TV" tvg-logo="http://logo.multicms.info/tvlogo/tontv.png" group-title="TR-YEREL",TR: TON TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51098
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: TV 6" group-title="TR-YEREL",TR: TV 6
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/222385
-#EXTINF:0 tvg-agent="Firefox" tvg-id="TV41" tvg-name="TR: TV 41" tvg-logo="http://logo.multicms.info/tvlogo/tv41.jpg" group-title="TR-YEREL",TR: TV 41
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51100
-#EXTINF:0 tvg-agent="Firefox" tvg-id="Vizyon Türk" tvg-name="TR: VIZYON 58" tvg-logo="http://logo.multicms.info/tvlogo/vizyon58.png" group-title="TR-YEREL",TR: VIZYON 58
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51102
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: VUSLAT TV" tvg-logo="http://logo.multicms.info/tvlogo/vuslattv.jpg" group-title="TR-YEREL",TR: VUSLAT TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/51103
-#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: YOL TV" tvg-logo="http://ssiptv.net/logos/yol.png" group-title="TR-YEREL",TR: YOL TV
-http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/124
