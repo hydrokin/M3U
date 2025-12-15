@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL BELGESEL" tvg-logo="http://logo.multicms.info/tvlogo/universal_channel_global.png" group-title="TR-BELGESEL",TR: UNIVERSAL BELGESEL
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/97172
+#EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL DISCOVERY" tvg-logo="https://logo.multicms.info/TVlogolar/UniversalDiscovery.jpg" group-title="TR-BELGESEL",TR: UNIVERSAL DISCOVERY
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/253585
+#EXTINF:0 tvg-agent="Firefox" tvg-id="National Geographic" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.multicms.info/tvlogo/natgeohd.png" group-title="TR-BELGESEL",TR: NATIONAL GEOGRAPHIC HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/286
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Nat Geo Wild" tvg-name="TR: NAT GEO WILD HD" tvg-logo="http://logo.multicms.info/tvlogo/natgeowild.png" group-title="TR-BELGESEL",TR: NAT GEO WILD HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/282
+#EXTINF:0 tvg-agent="Firefox" tvg-id="History" tvg-name="TR: HISTORY CHANNEL" tvg-logo="http://logo.multicms.info/tvlogo/historyhd.png" group-title="TR-BELGESEL",TR: HISTORY CHANNEL
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/278
+#EXTINF:0 tvg-agent="Firefox" tvg-id="HABİTAT TV" tvg-name="TR: HABITAT TV" tvg-logo="http://logo.multicms.info/tvlogo/HABITATTV.jpg" group-title="TR-BELGESEL",TR: HABITAT TV
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/78416
+#EXTINF:0 tvg-agent="Firefox" tvg-id="DMAX" tvg-name="TR: DMAX FHD" tvg-logo="http://logo.multicms.info/tvlogo/dmax.png" group-title="TR-BELGESEL",TR: DMAX FHD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/274
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN GURME" tvg-name="TR: BEIN GURME HD" tvg-logo="http://logo.multicms.info/tvlogo/beingurme.png" group-title="TR-BELGESEL",TR: BEIN GURME HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/271
+#EXTINF:0 tvg-agent="Firefox" tvg-id="beIN İZ" tvg-name="TR: BEIN IZ HD" tvg-logo="http://logo.multicms.info/tvlogo/beiniz.png" group-title="TR-BELGESEL",TR: BEIN IZ HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/270
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Love Nature" tvg-name="TR: LOVE NATURE" tvg-logo="http://logo.multicms.info/logoslar/lovenaturehd.png" group-title="TR-BELGESEL",TR: LOVE NATURE
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50428
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Discovery Channel" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="http://logo.multicms.info/tvlogo/discoveryhd.png" group-title="TR-BELGESEL",TR: DISCOVERY CHANNEL
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/264
+#EXTINF:0 tvg-agent="Firefox" tvg-id="ID" tvg-name="TR: DISCOVERY IDX" tvg-logo="http://logo.multicms.info/tvlogo/idxhd.png" group-title="TR-BELGESEL",TR: DISCOVERY IDX
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/261
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Yaban TV" tvg-name="TR: YABAN TV HD" tvg-logo="http://logo.multicms.info/tvlogo/yaban.png" group-title="TR-BELGESEL",TR: YABAN TV HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/15018
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Tarih TV" tvg-name="TR: TARIH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/250px-Tarih-tv-logo-siyah-1080x1080.png" group-title="TR-BELGESEL",TR: TARIH TV
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/140595
+#EXTINF:0 tvg-agent="Firefox" tvg-id="TRT Belgesel" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://logo.multicms.info/tvlogo/trtbelgeselhd.png" group-title="TR-BELGESEL",TR: TRT BELGESEL HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/50847
+#EXTINF:0 tvg-agent="Firefox" tvg-id="BBC EARTH" tvg-name="TR: BBC Earth HD" tvg-logo="http://logo.multicms.info/tvlogo/bbcearth.png" group-title="TR-BELGESEL",TR: BBC Earth HD
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/258
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Da Vinci" tvg-name="TR: DA Vinci" tvg-logo="http://logo.multicms.info/tvlogo/davincilearning.png" group-title="TR-BELGESEL",TR: DA Vinci
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/253
+#EXTINF:0 tvg-agent="Firefox" tvg-id="Viasat History" tvg-name="TR: VIASAT HISTORY" tvg-logo="http://logo.multicms.info/tvlogo/VIASAT-HISTORY.jpg" group-title="TR-BELGESEL",TR: VIASAT HISTORY
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/47970
+#EXTINF:0 tvg-agent="Firefox" tvg-id="VIASAT EXPLORE" tvg-name="TR: VIASAT EXPLORER" tvg-logo="https://logo.multicms.info/tvlogo/viasatexplore.png" group-title="TR-BELGESEL",TR: VIASAT EXPLORER
+http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/234449
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 1" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 1
 http://190502.tomtv.eu:80/LiudmilaSheremet/233v9m9kjc/61351
 #EXTINF:0 tvg-agent="Firefox" tvg-id="NULL" tvg-name="TR: MAXSPORTS 2" tvg-logo="http://logo.multicms.info/tvlogo/maxsports.jpg" group-title="TR-SPOR",TR: MAXSPORTS 2
